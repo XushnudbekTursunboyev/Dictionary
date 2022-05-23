@@ -1,0 +1,6002 @@
+[
+  {
+    "en": "as",
+    "id": 0,
+    "ru": "как",
+    "uz": "sifatida"
+  },
+  {
+    "en": "I",
+    "id": 1,
+    "ru": "Я",
+    "uz": "men"
+  },
+  {
+    "en": "his",
+    "id": 2,
+    "ru": "его",
+    "uz": "uning"
+  },
+  {
+    "en": "that",
+    "id": 3,
+    "ru": "что",
+    "uz": "ekan"
+  },
+  {
+    "en": "he",
+    "id": 4,
+    "ru": "он",
+    "uz": "u"
+  },
+  {
+    "en": "was",
+    "id": 5,
+    "ru": "было",
+    "uz": "edi"
+  },
+  {
+    "en": "for",
+    "id": 6,
+    "ru": "для",
+    "uz": "uchun"
+  },
+  {
+    "en": "on",
+    "id": 7,
+    "ru": "на",
+    "uz": "bo'yicha"
+  },
+  {
+    "en": "are",
+    "id": 8,
+    "ru": "являются",
+    "uz": "bor"
+  },
+  {
+    "en": "with",
+    "id": 9,
+    "ru": "с",
+    "uz": "bilan"
+  },
+  {
+    "en": "they",
+    "id": 10,
+    "ru": "они",
+    "uz": "ular"
+  },
+  {
+    "en": "be",
+    "id": 11,
+    "ru": "быть",
+    "uz": "bo'lishi"
+  },
+  {
+    "en": "at",
+    "id": 12,
+    "ru": "в",
+    "uz": "da"
+  },
+  {
+    "en": "one",
+    "id": 13,
+    "ru": "один",
+    "uz": "bir"
+  },
+  {
+    "en": "have",
+    "id": 14,
+    "ru": "иметь",
+    "uz": "bor"
+  },
+  {
+    "en": "this",
+    "id": 15,
+    "ru": "это",
+    "uz": "bu"
+  },
+  {
+    "en": "from",
+    "id": 16,
+    "ru": "от",
+    "uz": "ushbudan boshlab:"
+  },
+  {
+    "en": "by",
+    "id": 17,
+    "ru": "по",
+    "uz": "tomonidan"
+  },
+  {
+    "en": "hot",
+    "id": 18,
+    "ru": "горячий",
+    "uz": "issiq"
+  },
+  {
+    "en": "word",
+    "id": 19,
+    "ru": "слово",
+    "uz": "so'z"
+  },
+  {
+    "en": "but",
+    "id": 20,
+    "ru": "но",
+    "uz": "lekin"
+  },
+  {
+    "en": "what",
+    "id": 21,
+    "ru": "что",
+    "uz": "nima"
+  },
+  {
+    "en": "some",
+    "id": 22,
+    "ru": "некоторые",
+    "uz": "bir qancha"
+  },
+  {
+    "en": "is",
+    "id": 23,
+    "ru": "является",
+    "uz": "hisoblanadi"
+  },
+  {
+    "en": "it",
+    "id": 24,
+    "ru": "это",
+    "uz": "u"
+  },
+  {
+    "en": "you",
+    "id": 25,
+    "ru": "вы",
+    "uz": "siz"
+  },
+  {
+    "en": "or",
+    "id": 26,
+    "ru": "или",
+    "uz": "yoki"
+  },
+  {
+    "en": "had",
+    "id": 27,
+    "ru": "было",
+    "uz": "bor"
+  },
+  {
+    "en": "the",
+    "id": 28,
+    "ru": "площадь",
+    "uz": "The"
+  },
+  {
+    "en": "of",
+    "id": 29,
+    "ru": "из",
+    "uz": "ning"
+  },
+  {
+    "en": "to",
+    "id": 30,
+    "ru": "гора",
+    "uz": "uchun"
+  },
+  {
+    "en": "and",
+    "id": 31,
+    "ru": "и",
+    "uz": "va"
+  },
+  {
+    "en": "a",
+    "id": 32,
+    "ru": "основной",
+    "uz": "a"
+  },
+  {
+    "en": "in",
+    "id": 33,
+    "ru": "взял",
+    "uz": "ichida"
+  },
+  {
+    "en": "we",
+    "id": 34,
+    "ru": "мы",
+    "uz": "bizlar"
+  },
+  {
+    "en": "can",
+    "id": 35,
+    "ru": "может",
+    "uz": "mumkin"
+  },
+  {
+    "en": "out",
+    "id": 36,
+    "ru": "из",
+    "uz": "tashqarida"
+  },
+  {
+    "en": "other",
+    "id": 37,
+    "ru": "другой",
+    "uz": "boshqa"
+  },
+  {
+    "en": "were",
+    "id": 38,
+    "ru": "были",
+    "uz": "edi"
+  },
+  {
+    "en": "which",
+    "id": 39,
+    "ru": "который",
+    "uz": "qaysi"
+  },
+  {
+    "en": "do",
+    "id": 40,
+    "ru": "сделать",
+    "uz": "nima"
+  },
+  {
+    "en": "their",
+    "id": 41,
+    "ru": "их",
+    "uz": "ularning"
+  },
+  {
+    "en": "time",
+    "id": 42,
+    "ru": "время",
+    "uz": "vaqt"
+  },
+  {
+    "en": "if",
+    "id": 43,
+    "ru": "если",
+    "uz": "agar"
+  },
+  {
+    "en": "will",
+    "id": 44,
+    "ru": "будет",
+    "uz": "bo'ladi"
+  },
+  {
+    "en": "how",
+    "id": 45,
+    "ru": "как",
+    "uz": "qanaqasiga"
+  },
+  {
+    "en": "said",
+    "id": 46,
+    "ru": "указанный",
+    "uz": "dedi"
+  },
+  {
+    "en": "an",
+    "id": 47,
+    "ru": "назад",
+    "uz": "E'lonni"
+  },
+  {
+    "en": "each",
+    "id": 48,
+    "ru": "каждый",
+    "uz": "har bir"
+  },
+  {
+    "en": "tell",
+    "id": 49,
+    "ru": "сказать",
+    "uz": "aytib"
+  },
+  {
+    "en": "does",
+    "id": 50,
+    "ru": "делает",
+    "uz": "qilsa"
+  },
+  {
+    "en": "set",
+    "id": 51,
+    "ru": "набор",
+    "uz": "to'plami"
+  },
+  {
+    "en": "three",
+    "id": 52,
+    "ru": "три",
+    "uz": "uch"
+  },
+  {
+    "en": "want",
+    "id": 53,
+    "ru": "хочу",
+    "uz": "istaymiz"
+  },
+  {
+    "en": "air",
+    "id": 54,
+    "ru": "воздух",
+    "uz": "havo"
+  },
+  {
+    "en": "well",
+    "id": 55,
+    "ru": "хорошо",
+    "uz": "yaxshi"
+  },
+  {
+    "en": "also",
+    "id": 56,
+    "ru": "также",
+    "uz": "shuningdek"
+  },
+  {
+    "en": "play",
+    "id": 57,
+    "ru": "играть",
+    "uz": "o'yin"
+  },
+  {
+    "en": "small",
+    "id": 58,
+    "ru": "небольшой",
+    "uz": "kichkina"
+  },
+  {
+    "en": "end",
+    "id": 59,
+    "ru": "конец",
+    "uz": "oxiri"
+  },
+  {
+    "en": "put",
+    "id": 60,
+    "ru": "положить",
+    "uz": "qo'yish"
+  },
+  {
+    "en": "home",
+    "id": 61,
+    "ru": "домой",
+    "uz": "uy"
+  },
+  {
+    "en": "read",
+    "id": 62,
+    "ru": "читать",
+    "uz": "o'qish"
+  },
+  {
+    "en": "hand",
+    "id": 63,
+    "ru": "рука",
+    "uz": "qo'l"
+  },
+  {
+    "en": "port",
+    "id": 64,
+    "ru": "порт",
+    "uz": "port"
+  },
+  {
+    "en": "large",
+    "id": 65,
+    "ru": "большой",
+    "uz": "katta"
+  },
+  {
+    "en": "spell",
+    "id": 66,
+    "ru": "заклинание",
+    "uz": "sehr"
+  },
+  {
+    "en": "add",
+    "id": 67,
+    "ru": "добавлять",
+    "uz": "kiritish"
+  },
+  {
+    "en": "even",
+    "id": 68,
+    "ru": "даже",
+    "uz": "hatto"
+  },
+  {
+    "en": "land",
+    "id": 69,
+    "ru": "земля",
+    "uz": "er"
+  },
+  {
+    "en": "here",
+    "id": 70,
+    "ru": "здесь",
+    "uz": "bu yerga"
+  },
+  {
+    "en": "must",
+    "id": 71,
+    "ru": "должны",
+    "uz": "kerak"
+  },
+  {
+    "en": "big",
+    "id": 72,
+    "ru": "большой",
+    "uz": "katta"
+  },
+  {
+    "en": "high",
+    "id": 73,
+    "ru": "высокий",
+    "uz": "baland"
+  },
+  {
+    "en": "such",
+    "id": 74,
+    "ru": "такие",
+    "uz": "bunday"
+  },
+  {
+    "en": "follow",
+    "id": 75,
+    "ru": "следовать",
+    "uz": "rioya"
+  },
+  {
+    "en": "act",
+    "id": 76,
+    "ru": "акт",
+    "uz": "ish"
+  },
+  {
+    "en": "why",
+    "id": 77,
+    "ru": "почему",
+    "uz": "nima uchun"
+  },
+  {
+    "en": "ask",
+    "id": 78,
+    "ru": "спросите",
+    "uz": "so'rarlar"
+  },
+  {
+    "en": "men",
+    "id": 79,
+    "ru": "люди",
+    "uz": "Erkaklar"
+  },
+  {
+    "en": "change",
+    "id": 80,
+    "ru": "изменение",
+    "uz": "o'zgarish"
+  },
+  {
+    "en": "went",
+    "id": 81,
+    "ru": "пошел",
+    "uz": "ketdi"
+  },
+  {
+    "en": "light",
+    "id": 82,
+    "ru": "свет",
+    "uz": "engil"
+  },
+  {
+    "en": "kind",
+    "id": 83,
+    "ru": "вид",
+    "uz": "rahmdil"
+  },
+  {
+    "en": "off",
+    "id": 84,
+    "ru": "от",
+    "uz": "off"
+  },
+  {
+    "en": "need",
+    "id": 85,
+    "ru": "нуждаться",
+    "uz": "kerak"
+  },
+  {
+    "en": "house",
+    "id": 86,
+    "ru": "дом",
+    "uz": "uy"
+  },
+  {
+    "en": "picture",
+    "id": 87,
+    "ru": "картинка",
+    "uz": "surat"
+  },
+  {
+    "en": "try",
+    "id": 88,
+    "ru": "пытаться",
+    "uz": "urinish"
+  },
+  {
+    "en": "us",
+    "id": 89,
+    "ru": "нам",
+    "uz": "bizga"
+  },
+  {
+    "en": "again",
+    "id": 90,
+    "ru": "снова",
+    "uz": "yana"
+  },
+  {
+    "en": "animal",
+    "id": 91,
+    "ru": "животных",
+    "uz": "hayvon"
+  },
+  {
+    "en": "point",
+    "id": 92,
+    "ru": "точка",
+    "uz": "nuqtasi"
+  },
+  {
+    "en": "mother",
+    "id": 93,
+    "ru": "мать",
+    "uz": "ona"
+  },
+  {
+    "en": "world",
+    "id": 94,
+    "ru": "мир",
+    "uz": "dunyo"
+  },
+  {
+    "en": "near",
+    "id": 95,
+    "ru": "около",
+    "uz": "yaqin"
+  },
+  {
+    "en": "build",
+    "id": 96,
+    "ru": "строить",
+    "uz": "qurish"
+  },
+  {
+    "en": "self",
+    "id": 97,
+    "ru": "самостоятельно",
+    "uz": "o'zini"
+  },
+  {
+    "en": "earth",
+    "id": 98,
+    "ru": "земля",
+    "uz": "yer"
+  },
+  {
+    "en": "father",
+    "id": 99,
+    "ru": "отец",
+    "uz": "ota"
+  },
+  {
+    "en": "any",
+    "id": 100,
+    "ru": "любой",
+    "uz": "har qanday"
+  },
+  {
+    "en": "new",
+    "id": 101,
+    "ru": "новый",
+    "uz": "yangi"
+  },
+  {
+    "en": "work",
+    "id": 102,
+    "ru": "работа",
+    "uz": "ish"
+  },
+  {
+    "en": "part",
+    "id": 103,
+    "ru": "часть",
+    "uz": "qism"
+  },
+  {
+    "en": "take",
+    "id": 104,
+    "ru": "принимать",
+    "uz": "olmoq"
+  },
+  {
+    "en": "get",
+    "id": 105,
+    "ru": "получать",
+    "uz": "olish"
+  },
+  {
+    "en": "place",
+    "id": 106,
+    "ru": "место",
+    "uz": "joy"
+  },
+  {
+    "en": "made",
+    "id": 107,
+    "ru": "сделал",
+    "uz": "qilingan"
+  },
+  {
+    "en": "live",
+    "id": 108,
+    "ru": "жить",
+    "uz": "jonli"
+  },
+  {
+    "en": "where",
+    "id": 109,
+    "ru": "где",
+    "uz": "qayerda"
+  },
+  {
+    "en": "after",
+    "id": 110,
+    "ru": "после",
+    "uz": "so'ng"
+  },
+  {
+    "en": "back",
+    "id": 111,
+    "ru": "назад",
+    "uz": "orqa"
+  },
+  {
+    "en": "little",
+    "id": 112,
+    "ru": "немного",
+    "uz": "oz"
+  },
+  {
+    "en": "only",
+    "id": 113,
+    "ru": "только",
+    "uz": "faqat"
+  },
+  {
+    "en": "round",
+    "id": 114,
+    "ru": "круглый",
+    "uz": "dumaloq"
+  },
+  {
+    "en": "man",
+    "id": 115,
+    "ru": "человек",
+    "uz": "odam"
+  },
+  {
+    "en": "year",
+    "id": 116,
+    "ru": "год",
+    "uz": "yil"
+  },
+  {
+    "en": "came",
+    "id": 117,
+    "ru": "пришел",
+    "uz": "kelgan"
+  },
+  {
+    "en": "show",
+    "id": 118,
+    "ru": "шоу",
+    "uz": "ko'rsatish"
+  },
+  {
+    "en": "every",
+    "id": 119,
+    "ru": "каждый",
+    "uz": "har bir"
+  },
+  {
+    "en": "good",
+    "id": 120,
+    "ru": "хорошее",
+    "uz": "yaxshi"
+  },
+  {
+    "en": "me",
+    "id": 121,
+    "ru": "меня",
+    "uz": "meni"
+  },
+  {
+    "en": "give",
+    "id": 122,
+    "ru": "давать",
+    "uz": "berishi"
+  },
+  {
+    "en": "our",
+    "id": 123,
+    "ru": "наш",
+    "uz": "bizning"
+  },
+  {
+    "en": "under",
+    "id": 124,
+    "ru": "под",
+    "uz": "ostida"
+  },
+  {
+    "en": "name",
+    "id": 125,
+    "ru": "название",
+    "uz": "ism"
+  },
+  {
+    "en": "very",
+    "id": 126,
+    "ru": "очень",
+    "uz": "juda"
+  },
+  {
+    "en": "through",
+    "id": 127,
+    "ru": "через",
+    "uz": "ichidan"
+  },
+  {
+    "en": "just",
+    "id": 128,
+    "ru": "просто",
+    "uz": "faqat"
+  },
+  {
+    "en": "form",
+    "id": 129,
+    "ru": "форма",
+    "uz": "shakl"
+  },
+  {
+    "en": "sentence",
+    "id": 130,
+    "ru": "приговор",
+    "uz": "hukm"
+  },
+  {
+    "en": "great",
+    "id": 131,
+    "ru": "большой",
+    "uz": "buyuk"
+  },
+  {
+    "en": "think",
+    "id": 132,
+    "ru": "думать",
+    "uz": "deb o'ylayman"
+  },
+  {
+    "en": "say",
+    "id": 133,
+    "ru": "сказать",
+    "uz": "aytish"
+  },
+  {
+    "en": "help",
+    "id": 134,
+    "ru": "помощь",
+    "uz": "yordam bering"
+  },
+  {
+    "en": "low",
+    "id": 135,
+    "ru": "низкий",
+    "uz": "past"
+  },
+  {
+    "en": "line",
+    "id": 136,
+    "ru": "линия",
+    "uz": "chiziq"
+  },
+  {
+    "en": "differ",
+    "id": 137,
+    "ru": "отличаются",
+    "uz": "farq"
+  },
+  {
+    "en": "turn",
+    "id": 138,
+    "ru": "поворот",
+    "uz": "burilish"
+  },
+  {
+    "en": "cause",
+    "id": 139,
+    "ru": "причиной",
+    "uz": "sabab"
+  },
+  {
+    "en": "much",
+    "id": 140,
+    "ru": "много",
+    "uz": "ko'p"
+  },
+  {
+    "en": "mean",
+    "id": 141,
+    "ru": "означать",
+    "uz": "degani"
+  },
+  {
+    "en": "before",
+    "id": 142,
+    "ru": "до",
+    "uz": "oldin"
+  },
+  {
+    "en": "move",
+    "id": 143,
+    "ru": "движение",
+    "uz": "harakat"
+  },
+  {
+    "en": "right",
+    "id": 144,
+    "ru": "право",
+    "uz": "o'ng"
+  },
+  {
+    "en": "boy",
+    "id": 145,
+    "ru": "мальчик",
+    "uz": "bola"
+  },
+  {
+    "en": "old",
+    "id": 146,
+    "ru": "старый",
+    "uz": "qari"
+  },
+  {
+    "en": "too",
+    "id": 147,
+    "ru": "слишком",
+    "uz": "ham"
+  },
+  {
+    "en": "same",
+    "id": 148,
+    "ru": "же",
+    "uz": "bir xil"
+  },
+  {
+    "en": "she",
+    "id": 149,
+    "ru": "она",
+    "uz": "u"
+  },
+  {
+    "en": "all",
+    "id": 150,
+    "ru": "все",
+    "uz": "hamma"
+  },
+  {
+    "en": "there",
+    "id": 151,
+    "ru": "там",
+    "uz": "u yerda"
+  },
+  {
+    "en": "when",
+    "id": 152,
+    "ru": "когда",
+    "uz": "qachon"
+  },
+  {
+    "en": "up",
+    "id": 153,
+    "ru": "вверх",
+    "uz": "up"
+  },
+  {
+    "en": "use",
+    "id": 154,
+    "ru": "использование",
+    "uz": "foydalanish"
+  },
+  {
+    "en": "your",
+    "id": 155,
+    "ru": "ваш",
+    "uz": "Sening"
+  },
+  {
+    "en": "way",
+    "id": 156,
+    "ru": "способ",
+    "uz": "yo'l"
+  },
+  {
+    "en": "about",
+    "id": 157,
+    "ru": "о",
+    "uz": "atrofida"
+  },
+  {
+    "en": "many",
+    "id": 158,
+    "ru": "многие",
+    "uz": "ko'p"
+  },
+  {
+    "en": "then",
+    "id": 159,
+    "ru": "затем",
+    "uz": "so'ng"
+  },
+  {
+    "en": "them",
+    "id": 160,
+    "ru": "их",
+    "uz": "ularga"
+  },
+  {
+    "en": "write",
+    "id": 161,
+    "ru": "запись",
+    "uz": "yozish"
+  },
+  {
+    "en": "would",
+    "id": 162,
+    "ru": "бы",
+    "uz": "bulardi"
+  },
+  {
+    "en": "like",
+    "id": 163,
+    "ru": "подобно",
+    "uz": "kabi"
+  },
+  {
+    "en": "so",
+    "id": 164,
+    "ru": "так",
+    "uz": "shunday"
+  },
+  {
+    "en": "these",
+    "id": 165,
+    "ru": "эти",
+    "uz": "bular"
+  },
+  {
+    "en": "her",
+    "id": 166,
+    "ru": "ее",
+    "uz": "uning"
+  },
+  {
+    "en": "long",
+    "id": 167,
+    "ru": "долго",
+    "uz": "uzun"
+  },
+  {
+    "en": "make",
+    "id": 168,
+    "ru": "сделать",
+    "uz": "olmoq"
+  },
+  {
+    "en": "thing",
+    "id": 169,
+    "ru": "вещь",
+    "uz": "narsa"
+  },
+  {
+    "en": "see",
+    "id": 170,
+    "ru": "посмотреть",
+    "uz": "qarang"
+  },
+  {
+    "en": "him",
+    "id": 171,
+    "ru": "его",
+    "uz": "uni"
+  },
+  {
+    "en": "two",
+    "id": 172,
+    "ru": "два",
+    "uz": "ikki"
+  },
+  {
+    "en": "has",
+    "id": 173,
+    "ru": "имеет",
+    "uz": "bor"
+  },
+  {
+    "en": "look",
+    "id": 174,
+    "ru": "искать",
+    "uz": "nazar"
+  },
+  {
+    "en": "more",
+    "id": 175,
+    "ru": "еще",
+    "uz": "ko'proq"
+  },
+  {
+    "en": "day",
+    "id": 176,
+    "ru": "день",
+    "uz": "kun"
+  },
+  {
+    "en": "could",
+    "id": 177,
+    "ru": "мог",
+    "uz": "qo'lidan"
+  },
+  {
+    "en": "go",
+    "id": 178,
+    "ru": "идти",
+    "uz": "borish"
+  },
+  {
+    "en": "come",
+    "id": 179,
+    "ru": "приходят",
+    "uz": "kelib"
+  },
+  {
+    "en": "did",
+    "id": 180,
+    "ru": "сделал",
+    "uz": "qilgan"
+  },
+  {
+    "en": "number",
+    "id": 181,
+    "ru": "число",
+    "uz": "soni"
+  },
+  {
+    "en": "sound",
+    "id": 182,
+    "ru": "звук",
+    "uz": "ovozli"
+  },
+  {
+    "en": "no",
+    "id": 183,
+    "ru": "нет",
+    "uz": "yo'q"
+  },
+  {
+    "en": "most",
+    "id": 184,
+    "ru": "наиболее",
+    "uz": "eng"
+  },
+  {
+    "en": "people",
+    "id": 185,
+    "ru": "люди",
+    "uz": "odamlar"
+  },
+  {
+    "en": "my",
+    "id": 186,
+    "ru": "мой",
+    "uz": "mening"
+  },
+  {
+    "en": "over",
+    "id": 187,
+    "ru": "над",
+    "uz": "ustida"
+  },
+  {
+    "en": "know",
+    "id": 188,
+    "ru": "знать",
+    "uz": "bilaman"
+  },
+  {
+    "en": "water",
+    "id": 189,
+    "ru": "вода",
+    "uz": "suv"
+  },
+  {
+    "en": "than",
+    "id": 190,
+    "ru": "чем",
+    "uz": "nisbatan"
+  },
+  {
+    "en": "call",
+    "id": 191,
+    "ru": "вызов",
+    "uz": "chaqirish"
+  },
+  {
+    "en": "first",
+    "id": 192,
+    "ru": "первый",
+    "uz": "birinchi"
+  },
+  {
+    "en": "who",
+    "id": 193,
+    "ru": "кто",
+    "uz": "kim"
+  },
+  {
+    "en": "may",
+    "id": 194,
+    "ru": "может",
+    "uz": "mumkin"
+  },
+  {
+    "en": "down",
+    "id": 195,
+    "ru": "вниз",
+    "uz": "pastga"
+  },
+  {
+    "en": "side",
+    "id": 196,
+    "ru": "сторона",
+    "uz": "taraf"
+  },
+  {
+    "en": "been",
+    "id": 197,
+    "ru": "был",
+    "uz": "edi"
+  },
+  {
+    "en": "now",
+    "id": 198,
+    "ru": "сейчас",
+    "uz": "hozir"
+  },
+  {
+    "en": "find",
+    "id": 199,
+    "ru": "находить",
+    "uz": "topish"
+  },
+  {
+    "en": "head",
+    "id": 200,
+    "ru": "руководитель",
+    "uz": "bosh"
+  },
+  {
+    "en": "stand",
+    "id": 201,
+    "ru": "стоять",
+    "uz": "turmoq"
+  },
+  {
+    "en": "own",
+    "id": 202,
+    "ru": "самостоятельно",
+    "uz": "xususiy"
+  },
+  {
+    "en": "page",
+    "id": 203,
+    "ru": "страница",
+    "uz": "bet"
+  },
+  {
+    "en": "should",
+    "id": 204,
+    "ru": "должны",
+    "uz": "kerak"
+  },
+  {
+    "en": "country",
+    "id": 205,
+    "ru": "страна",
+    "uz": "mamlakat"
+  },
+  {
+    "en": "found",
+    "id": 206,
+    "ru": "найдено",
+    "uz": "topildi"
+  },
+  {
+    "en": "answer",
+    "id": 207,
+    "ru": "ответ",
+    "uz": "javob"
+  },
+  {
+    "en": "school",
+    "id": 208,
+    "ru": "школа",
+    "uz": "maktab"
+  },
+  {
+    "en": "grow",
+    "id": 209,
+    "ru": "расти",
+    "uz": "o'sadi"
+  },
+  {
+    "en": "study",
+    "id": 210,
+    "ru": "исследование",
+    "uz": "o'rganish"
+  },
+  {
+    "en": "still",
+    "id": 211,
+    "ru": "еще",
+    "uz": "hali"
+  },
+  {
+    "en": "learn",
+    "id": 212,
+    "ru": "учиться",
+    "uz": "o'rganish"
+  },
+  {
+    "en": "plant",
+    "id": 213,
+    "ru": "завод",
+    "uz": "o'simlik"
+  },
+  {
+    "en": "cover",
+    "id": 214,
+    "ru": "крышка",
+    "uz": "qoplama"
+  },
+  {
+    "en": "food",
+    "id": 215,
+    "ru": "еда",
+    "uz": "ovqat"
+  },
+  {
+    "en": "sun",
+    "id": 216,
+    "ru": "солнце",
+    "uz": "quyosh"
+  },
+  {
+    "en": "four",
+    "id": 217,
+    "ru": "четыре",
+    "uz": "to'rt"
+  },
+  {
+    "en": "between",
+    "id": 218,
+    "ru": "между",
+    "uz": "o'rtasida"
+  },
+  {
+    "en": "state",
+    "id": 219,
+    "ru": "состояние",
+    "uz": "davlat"
+  },
+  {
+    "en": "keep",
+    "id": 220,
+    "ru": "держать",
+    "uz": "saqlamoq"
+  },
+  {
+    "en": "eye",
+    "id": 221,
+    "ru": "глаз",
+    "uz": "ko'z"
+  },
+  {
+    "en": "never",
+    "id": 222,
+    "ru": "никогда не",
+    "uz": "hech qachon"
+  },
+  {
+    "en": "last",
+    "id": 223,
+    "ru": "Последнее",
+    "uz": "oxirgi"
+  },
+  {
+    "en": "let",
+    "id": 224,
+    "ru": "позволять",
+    "uz": "ruxsat"
+  },
+  {
+    "en": "thought",
+    "id": 225,
+    "ru": "мысль",
+    "uz": "fikr"
+  },
+  {
+    "en": "city",
+    "id": 226,
+    "ru": "город",
+    "uz": "shahar"
+  },
+  {
+    "en": "tree",
+    "id": 227,
+    "ru": "дерево",
+    "uz": "daraxt"
+  },
+  {
+    "en": "cross",
+    "id": 228,
+    "ru": "пересекают",
+    "uz": "kesib"
+  },
+  {
+    "en": "farm",
+    "id": 229,
+    "ru": "ферма",
+    "uz": "ferma"
+  },
+  {
+    "en": "hard",
+    "id": 230,
+    "ru": "трудно",
+    "uz": "qiyin"
+  },
+  {
+    "en": "start",
+    "id": 231,
+    "ru": "начало",
+    "uz": "start"
+  },
+  {
+    "en": "might",
+    "id": 232,
+    "ru": "мощи",
+    "uz": "qudrat"
+  },
+  {
+    "en": "story",
+    "id": 233,
+    "ru": "история",
+    "uz": "hikoya"
+  },
+  {
+    "en": "saw",
+    "id": 234,
+    "ru": "пила",
+    "uz": "arra"
+  },
+  {
+    "en": "far",
+    "id": 235,
+    "ru": "далеко",
+    "uz": "uzoq"
+  },
+  {
+    "en": "sea",
+    "id": 236,
+    "ru": "море",
+    "uz": "dengiz"
+  },
+  {
+    "en": "draw",
+    "id": 237,
+    "ru": "привлечь",
+    "uz": "chizish"
+  },
+  {
+    "en": "left",
+    "id": 238,
+    "ru": "слева",
+    "uz": "chap"
+  },
+  {
+    "en": "late",
+    "id": 239,
+    "ru": "поздно",
+    "uz": "kech"
+  },
+  {
+    "en": "run",
+    "id": 240,
+    "ru": "запустить",
+    "uz": "Run"
+  },
+  {
+    "en": "don't",
+    "id": 241,
+    "ru": "не",
+    "uz": "bunday qilma"
+  },
+  {
+    "en": "while",
+    "id": 242,
+    "ru": "в то время как",
+    "uz": "paytda"
+  },
+  {
+    "en": "press",
+    "id": 243,
+    "ru": "нажмите",
+    "uz": "matbuot"
+  },
+  {
+    "en": "close",
+    "id": 244,
+    "ru": "близко",
+    "uz": "yaqin"
+  },
+  {
+    "en": "night",
+    "id": 245,
+    "ru": "ночь",
+    "uz": "tun"
+  },
+  {
+    "en": "real",
+    "id": 246,
+    "ru": "реальный",
+    "uz": "haqiqiy"
+  },
+  {
+    "en": "life",
+    "id": 247,
+    "ru": "жизнь",
+    "uz": "hayot"
+  },
+  {
+    "en": "few",
+    "id": 248,
+    "ru": "несколько",
+    "uz": "oz"
+  },
+  {
+    "en": "north",
+    "id": 249,
+    "ru": "к северу",
+    "uz": "shimol"
+  },
+  {
+    "en": "book",
+    "id": 250,
+    "ru": "книга",
+    "uz": "kitob"
+  },
+  {
+    "en": "carry",
+    "id": 251,
+    "ru": "нести",
+    "uz": "bajarish"
+  },
+  {
+    "en": "took",
+    "id": 252,
+    "ru": "взял",
+    "uz": "oldi"
+  },
+  {
+    "en": "science",
+    "id": 253,
+    "ru": "наука",
+    "uz": "fan"
+  },
+  {
+    "en": "eat",
+    "id": 254,
+    "ru": "есть",
+    "uz": "ovqat"
+  },
+  {
+    "en": "room",
+    "id": 255,
+    "ru": "номер",
+    "uz": "xona"
+  },
+  {
+    "en": "friend",
+    "id": 256,
+    "ru": "друг",
+    "uz": "do'st"
+  },
+  {
+    "en": "began",
+    "id": 257,
+    "ru": "начал",
+    "uz": "boshladi"
+  },
+  {
+    "en": "idea",
+    "id": 258,
+    "ru": "идея",
+    "uz": "fikr"
+  },
+  {
+    "en": "fish",
+    "id": 259,
+    "ru": "рыба",
+    "uz": "baliq"
+  },
+  {
+    "en": "mountain",
+    "id": 260,
+    "ru": "гора",
+    "uz": "tog '"
+  },
+  {
+    "en": "stop",
+    "id": 261,
+    "ru": "остановить",
+    "uz": "stop"
+  },
+  {
+    "en": "once",
+    "id": 262,
+    "ru": "раз",
+    "uz": "bir marta"
+  },
+  {
+    "en": "base",
+    "id": 263,
+    "ru": "база",
+    "uz": "asos"
+  },
+  {
+    "en": "hear",
+    "id": 264,
+    "ru": "слышать",
+    "uz": "eshitmoq"
+  },
+  {
+    "en": "horse",
+    "id": 265,
+    "ru": "лошадь",
+    "uz": "ot"
+  },
+  {
+    "en": "cut",
+    "id": 266,
+    "ru": "вырезать",
+    "uz": "kesma"
+  },
+  {
+    "en": "sure",
+    "id": 267,
+    "ru": "уверен",
+    "uz": "ishonch"
+  },
+  {
+    "en": "watch",
+    "id": 268,
+    "ru": "смотреть",
+    "uz": "tomosha"
+  },
+  {
+    "en": "color",
+    "id": 269,
+    "ru": "цвет",
+    "uz": "rang"
+  },
+  {
+    "en": "face",
+    "id": 270,
+    "ru": "лицо",
+    "uz": "yuz"
+  },
+  {
+    "en": "wood",
+    "id": 271,
+    "ru": "дерево",
+    "uz": "o'tin"
+  },
+  {
+    "en": "main",
+    "id": 272,
+    "ru": "основной",
+    "uz": "asosiy"
+  },
+  {
+    "en": "open",
+    "id": 273,
+    "ru": "открыт",
+    "uz": "ochiq"
+  },
+  {
+    "en": "seem",
+    "id": 274,
+    "ru": "кажется",
+    "uz": "ko'rinadi"
+  },
+  {
+    "en": "together",
+    "id": 275,
+    "ru": "вместе",
+    "uz": "birga"
+  },
+  {
+    "en": "next",
+    "id": 276,
+    "ru": "следующий",
+    "uz": "keyingisi"
+  },
+  {
+    "en": "white",
+    "id": 277,
+    "ru": "белый",
+    "uz": "oq rang"
+  },
+  {
+    "en": "children",
+    "id": 278,
+    "ru": "дети",
+    "uz": "bolalar"
+  },
+  {
+    "en": "begin",
+    "id": 279,
+    "ru": "начать",
+    "uz": "boshlanishi"
+  },
+  {
+    "en": "got",
+    "id": 280,
+    "ru": "получил",
+    "uz": "bor"
+  },
+  {
+    "en": "walk",
+    "id": 281,
+    "ru": "ходить",
+    "uz": "yurish"
+  },
+  {
+    "en": "example",
+    "id": 282,
+    "ru": "пример",
+    "uz": "misol"
+  },
+  {
+    "en": "ease",
+    "id": 283,
+    "ru": "легкость",
+    "uz": "sukunat"
+  },
+  {
+    "en": "paper",
+    "id": 284,
+    "ru": "бумага",
+    "uz": "qog'oz"
+  },
+  {
+    "en": "group",
+    "id": 285,
+    "ru": "группа",
+    "uz": "guruh"
+  },
+  {
+    "en": "always",
+    "id": 286,
+    "ru": "всегда",
+    "uz": "har doim"
+  },
+  {
+    "en": "music",
+    "id": 287,
+    "ru": "музыка",
+    "uz": "musiqa"
+  },
+  {
+    "en": "those",
+    "id": 288,
+    "ru": "тех",
+    "uz": "ular"
+  },
+  {
+    "en": "both",
+    "id": 289,
+    "ru": "как",
+    "uz": "har ikkala"
+  },
+  {
+    "en": "mark",
+    "id": 290,
+    "ru": "знак",
+    "uz": "belgi"
+  },
+  {
+    "en": "often",
+    "id": 291,
+    "ru": "часто",
+    "uz": "ko'pincha"
+  },
+  {
+    "en": "letter",
+    "id": 292,
+    "ru": "письмо",
+    "uz": "xat"
+  },
+  {
+    "en": "until",
+    "id": 293,
+    "ru": "до",
+    "uz": "gacha"
+  },
+  {
+    "en": "mile",
+    "id": 294,
+    "ru": "км",
+    "uz": "milya"
+  },
+  {
+    "en": "river",
+    "id": 295,
+    "ru": "река",
+    "uz": "daryo"
+  },
+  {
+    "en": "car",
+    "id": 296,
+    "ru": "автомобиль",
+    "uz": "avtomobil"
+  },
+  {
+    "en": "feet",
+    "id": 297,
+    "ru": "футов",
+    "uz": "fut"
+  },
+  {
+    "en": "care",
+    "id": 298,
+    "ru": "уход",
+    "uz": "g'amxo'rlik"
+  },
+  {
+    "en": "second",
+    "id": 299,
+    "ru": "Второй",
+    "uz": "ikkinchi"
+  },
+  {
+    "en": "enough",
+    "id": 300,
+    "ru": "достаточно",
+    "uz": "yetarli"
+  },
+  {
+    "en": "plain",
+    "id": 301,
+    "ru": "равнина",
+    "uz": "tekis"
+  },
+  {
+    "en": "girl",
+    "id": 302,
+    "ru": "девушка",
+    "uz": "qiz"
+  },
+  {
+    "en": "usual",
+    "id": 303,
+    "ru": "обычно",
+    "uz": "oddiy"
+  },
+  {
+    "en": "young",
+    "id": 304,
+    "ru": "молодой",
+    "uz": "yosh"
+  },
+  {
+    "en": "ready",
+    "id": 305,
+    "ru": "готовый",
+    "uz": "tayyor"
+  },
+  {
+    "en": "above",
+    "id": 306,
+    "ru": "выше",
+    "uz": "yuqorida"
+  },
+  {
+    "en": "ever",
+    "id": 307,
+    "ru": "когда-либо",
+    "uz": "hech"
+  },
+  {
+    "en": "red",
+    "id": 308,
+    "ru": "красный",
+    "uz": "qizil"
+  },
+  {
+    "en": "list",
+    "id": 309,
+    "ru": "список",
+    "uz": "ro'yxat"
+  },
+  {
+    "en": "though",
+    "id": 310,
+    "ru": "хотя",
+    "uz": "garchi"
+  },
+  {
+    "en": "feel",
+    "id": 311,
+    "ru": "чувствовать",
+    "uz": "his"
+  },
+  {
+    "en": "talk",
+    "id": 312,
+    "ru": "разговор",
+    "uz": "suhbat"
+  },
+  {
+    "en": "bird",
+    "id": 313,
+    "ru": "птица",
+    "uz": "qush"
+  },
+  {
+    "en": "soon",
+    "id": 314,
+    "ru": "скоро",
+    "uz": "yaqinda"
+  },
+  {
+    "en": "body",
+    "id": 315,
+    "ru": "тело",
+    "uz": "badan"
+  },
+  {
+    "en": "dog",
+    "id": 316,
+    "ru": "собака",
+    "uz": "it"
+  },
+  {
+    "en": "family",
+    "id": 317,
+    "ru": "семья",
+    "uz": "oilaviy"
+  },
+  {
+    "en": "direct",
+    "id": 318,
+    "ru": "прямой",
+    "uz": "to'g'ri"
+  },
+  {
+    "en": "pose",
+    "id": 319,
+    "ru": "представляют",
+    "uz": "tug'dirmaydi"
+  },
+  {
+    "en": "leave",
+    "id": 320,
+    "ru": "оставить",
+    "uz": "tark"
+  },
+  {
+    "en": "song",
+    "id": 321,
+    "ru": "песня",
+    "uz": "song"
+  },
+  {
+    "en": "measure",
+    "id": 322,
+    "ru": "измерять",
+    "uz": "o'lchov"
+  },
+  {
+    "en": "door",
+    "id": 323,
+    "ru": "дверь",
+    "uz": "eshik"
+  },
+  {
+    "en": "product",
+    "id": 324,
+    "ru": "продукт",
+    "uz": "mahsulot"
+  },
+  {
+    "en": "black",
+    "id": 325,
+    "ru": "черный",
+    "uz": "qora"
+  },
+  {
+    "en": "short",
+    "id": 326,
+    "ru": "короткая",
+    "uz": "qisqa"
+  },
+  {
+    "en": "numeral",
+    "id": 327,
+    "ru": "цифра",
+    "uz": "raqam"
+  },
+  {
+    "en": "class",
+    "id": 328,
+    "ru": "класс",
+    "uz": "class"
+  },
+  {
+    "en": "wind",
+    "id": 329,
+    "ru": "ветер",
+    "uz": "shamol"
+  },
+  {
+    "en": "question",
+    "id": 330,
+    "ru": "вопрос",
+    "uz": "savol"
+  },
+  {
+    "en": "happen",
+    "id": 331,
+    "ru": "произойдет",
+    "uz": "sodir"
+  },
+  {
+    "en": "complete",
+    "id": 332,
+    "ru": "полная",
+    "uz": "to'la"
+  },
+  {
+    "en": "ship",
+    "id": 333,
+    "ru": "корабль",
+    "uz": "kema"
+  },
+  {
+    "en": "area",
+    "id": 334,
+    "ru": "площадь",
+    "uz": "maydon"
+  },
+  {
+    "en": "half",
+    "id": 335,
+    "ru": "половина",
+    "uz": "yarim"
+  },
+  {
+    "en": "rock",
+    "id": 336,
+    "ru": "рок",
+    "uz": "qoya"
+  },
+  {
+    "en": "order",
+    "id": 337,
+    "ru": "порядок",
+    "uz": "buyurtma"
+  },
+  {
+    "en": "fire",
+    "id": 338,
+    "ru": "огонь",
+    "uz": "yong'in"
+  },
+  {
+    "en": "south",
+    "id": 339,
+    "ru": "юг",
+    "uz": "janub"
+  },
+  {
+    "en": "problem",
+    "id": 340,
+    "ru": "проблема",
+    "uz": "muammo"
+  },
+  {
+    "en": "piece",
+    "id": 341,
+    "ru": "кусок",
+    "uz": "qism"
+  },
+  {
+    "en": "told",
+    "id": 342,
+    "ru": "сказал",
+    "uz": "aytdi"
+  },
+  {
+    "en": "knew",
+    "id": 343,
+    "ru": "знал",
+    "uz": "bilgan"
+  },
+  {
+    "en": "pass",
+    "id": 344,
+    "ru": "проходить",
+    "uz": "o'tishi"
+  },
+  {
+    "en": "since",
+    "id": 345,
+    "ru": "с",
+    "uz": "chunki"
+  },
+  {
+    "en": "top",
+    "id": 346,
+    "ru": "топ",
+    "uz": "eng yaxshi"
+  },
+  {
+    "en": "whole",
+    "id": 347,
+    "ru": "весь",
+    "uz": "butun"
+  },
+  {
+    "en": "king",
+    "id": 348,
+    "ru": "король",
+    "uz": "qirol"
+  },
+  {
+    "en": "street",
+    "id": 349,
+    "ru": "улица",
+    "uz": "ko'cha"
+  },
+  {
+    "en": "inch",
+    "id": 350,
+    "ru": "дюйм",
+    "uz": "inch"
+  },
+  {
+    "en": "multiply",
+    "id": 351,
+    "ru": "умножить",
+    "uz": "ko'paytirib"
+  },
+  {
+    "en": "nothing",
+    "id": 352,
+    "ru": "ничего",
+    "uz": "hech nima"
+  },
+  {
+    "en": "course",
+    "id": 353,
+    "ru": "курс",
+    "uz": "Albatta"
+  },
+  {
+    "en": "stay",
+    "id": 354,
+    "ru": "оставаться",
+    "uz": "qolish"
+  },
+  {
+    "en": "wheel",
+    "id": 355,
+    "ru": "колеса",
+    "uz": "g'ildirak"
+  },
+  {
+    "en": "full",
+    "id": 356,
+    "ru": "полный",
+    "uz": "to'liq"
+  },
+  {
+    "en": "force",
+    "id": 357,
+    "ru": "сила",
+    "uz": "kuch"
+  },
+  {
+    "en": "blue",
+    "id": 358,
+    "ru": "синий",
+    "uz": "ko'k"
+  },
+  {
+    "en": "object",
+    "id": 359,
+    "ru": "объект",
+    "uz": "ob'ekt"
+  },
+  {
+    "en": "decide",
+    "id": 360,
+    "ru": "решать",
+    "uz": "qaror"
+  },
+  {
+    "en": "surface",
+    "id": 361,
+    "ru": "поверхность",
+    "uz": "yuza"
+  },
+  {
+    "en": "deep",
+    "id": 362,
+    "ru": "глубоко",
+    "uz": "chuqur"
+  },
+  {
+    "en": "moon",
+    "id": 363,
+    "ru": "луна",
+    "uz": "oy"
+  },
+  {
+    "en": "island",
+    "id": 364,
+    "ru": "остров",
+    "uz": "orol"
+  },
+  {
+    "en": "foot",
+    "id": 365,
+    "ru": "фут",
+    "uz": "oyoq"
+  },
+  {
+    "en": "system",
+    "id": 366,
+    "ru": "система",
+    "uz": "tizim"
+  },
+  {
+    "en": "busy",
+    "id": 367,
+    "ru": "занято",
+    "uz": "band"
+  },
+  {
+    "en": "test",
+    "id": 368,
+    "ru": "тест",
+    "uz": "sinov"
+  },
+  {
+    "en": "record",
+    "id": 369,
+    "ru": "запись",
+    "uz": "rekord"
+  },
+  {
+    "en": "boat",
+    "id": 370,
+    "ru": "лодка",
+    "uz": "qayiq"
+  },
+  {
+    "en": "common",
+    "id": 371,
+    "ru": "общая",
+    "uz": "umumiy"
+  },
+  {
+    "en": "gold",
+    "id": 372,
+    "ru": "золото",
+    "uz": "oltin"
+  },
+  {
+    "en": "possible",
+    "id": 373,
+    "ru": "возможно",
+    "uz": "mumkin"
+  },
+  {
+    "en": "plane",
+    "id": 374,
+    "ru": "самолет",
+    "uz": "Samolyot"
+  },
+  {
+    "en": "stead",
+    "id": 375,
+    "ru": "вместо него",
+    "uz": "foyda"
+  },
+  {
+    "en": "dry",
+    "id": 376,
+    "ru": "сухой",
+    "uz": "quruq"
+  },
+  {
+    "en": "wonder",
+    "id": 377,
+    "ru": "Интересно",
+    "uz": "hayron"
+  },
+  {
+    "en": "laugh",
+    "id": 378,
+    "ru": "смех",
+    "uz": "kulgu"
+  },
+  {
+    "en": "thousand",
+    "id": 379,
+    "ru": "тыс",
+    "uz": "ming"
+  },
+  {
+    "en": "ago",
+    "id": 380,
+    "ru": "назад",
+    "uz": "ilgari"
+  },
+  {
+    "en": "ran",
+    "id": 381,
+    "ru": "побежал",
+    "uz": "yugurib"
+  },
+  {
+    "en": "check",
+    "id": 382,
+    "ru": "проверять",
+    "uz": "nazorat"
+  },
+  {
+    "en": "game",
+    "id": 383,
+    "ru": "игра",
+    "uz": "o'yin"
+  },
+  {
+    "en": "shape",
+    "id": 384,
+    "ru": "форма",
+    "uz": "shakli"
+  },
+  {
+    "en": "equate",
+    "id": 385,
+    "ru": "приравнять",
+    "uz": "tenglashtirmoq"
+  },
+  {
+    "en": "hot",
+    "id": 386,
+    "ru": "горячий",
+    "uz": "issiq"
+  },
+  {
+    "en": "miss",
+    "id": 387,
+    "ru": "мисс",
+    "uz": "kechikmoq"
+  },
+  {
+    "en": "brought",
+    "id": 388,
+    "ru": "принес",
+    "uz": "olib"
+  },
+  {
+    "en": "heat",
+    "id": 389,
+    "ru": "тепло",
+    "uz": "issiqlik"
+  },
+  {
+    "en": "snow",
+    "id": 390,
+    "ru": "снег",
+    "uz": "qor"
+  },
+  {
+    "en": "tire",
+    "id": 391,
+    "ru": "шина",
+    "uz": "shina"
+  },
+  {
+    "en": "bring",
+    "id": 392,
+    "ru": "приносить",
+    "uz": "olib"
+  },
+  {
+    "en": "yes",
+    "id": 393,
+    "ru": "да",
+    "uz": "ha"
+  },
+  {
+    "en": "distant",
+    "id": 394,
+    "ru": "удаленная",
+    "uz": "uzoqdagi"
+  },
+  {
+    "en": "fill",
+    "id": 395,
+    "ru": "заполнить",
+    "uz": "to'ldirish"
+  },
+  {
+    "en": "east",
+    "id": 396,
+    "ru": "восток",
+    "uz": "sharq"
+  },
+  {
+    "en": "paint",
+    "id": 397,
+    "ru": "краска",
+    "uz": "bo'yoq"
+  },
+  {
+    "en": "language",
+    "id": 398,
+    "ru": "язык",
+    "uz": "til"
+  },
+  {
+    "en": "among",
+    "id": 399,
+    "ru": "среди",
+    "uz": "orasida"
+  },
+  {
+    "en": "unit",
+    "id": 400,
+    "ru": "блок",
+    "uz": "birlik"
+  },
+  {
+    "en": "power",
+    "id": 401,
+    "ru": "мощность",
+    "uz": "kuch"
+  },
+  {
+    "en": "town",
+    "id": 402,
+    "ru": "город",
+    "uz": "shahar"
+  },
+  {
+    "en": "fine",
+    "id": 403,
+    "ru": "отлично",
+    "uz": "jarima"
+  },
+  {
+    "en": "certain",
+    "id": 404,
+    "ru": "уверен",
+    "uz": "aniq"
+  },
+  {
+    "en": "fly",
+    "id": 405,
+    "ru": "летать",
+    "uz": "chivin"
+  },
+  {
+    "en": "fall",
+    "id": 406,
+    "ru": "падать",
+    "uz": "kuz"
+  },
+  {
+    "en": "lead",
+    "id": 407,
+    "ru": "привести",
+    "uz": "qo'rg'oshin"
+  },
+  {
+    "en": "cry",
+    "id": 408,
+    "ru": "крик",
+    "uz": "yig'lamoq"
+  },
+  {
+    "en": "dark",
+    "id": 409,
+    "ru": "темно",
+    "uz": "qorong'u"
+  },
+  {
+    "en": "machine",
+    "id": 410,
+    "ru": "машина",
+    "uz": "mashina"
+  },
+  {
+    "en": "note",
+    "id": 411,
+    "ru": "примечание",
+    "uz": "eslatma"
+  },
+  {
+    "en": "wait",
+    "id": 412,
+    "ru": "ждать",
+    "uz": "kutish"
+  },
+  {
+    "en": "plan",
+    "id": 413,
+    "ru": "план",
+    "uz": "reja"
+  },
+  {
+    "en": "figure",
+    "id": 414,
+    "ru": "фигура",
+    "uz": "shakl"
+  },
+  {
+    "en": "star",
+    "id": 415,
+    "ru": "звезда",
+    "uz": "yulduz"
+  },
+  {
+    "en": "box",
+    "id": 416,
+    "ru": "коробка",
+    "uz": "box"
+  },
+  {
+    "en": "noun",
+    "id": 417,
+    "ru": "существительное",
+    "uz": "ot"
+  },
+  {
+    "en": "field",
+    "id": 418,
+    "ru": "поле",
+    "uz": "dala"
+  },
+  {
+    "en": "rest",
+    "id": 419,
+    "ru": "остальные",
+    "uz": "dam"
+  },
+  {
+    "en": "correct",
+    "id": 420,
+    "ru": "верный",
+    "uz": "to'g'ri"
+  },
+  {
+    "en": "able",
+    "id": 421,
+    "ru": "состоянии",
+    "uz": "qodir"
+  },
+  {
+    "en": "pound",
+    "id": 422,
+    "ru": "фунт",
+    "uz": "funt"
+  },
+  {
+    "en": "done",
+    "id": 423,
+    "ru": "сделано",
+    "uz": "qilingan"
+  },
+  {
+    "en": "beauty",
+    "id": 424,
+    "ru": "красота",
+    "uz": "go'zallik"
+  },
+  {
+    "en": "drive",
+    "id": 425,
+    "ru": "привод",
+    "uz": "haydash"
+  },
+  {
+    "en": "stood",
+    "id": 426,
+    "ru": "стоял",
+    "uz": "turib"
+  },
+  {
+    "en": "contain",
+    "id": 427,
+    "ru": "содержать",
+    "uz": "o'z ichiga olgan"
+  },
+  {
+    "en": "front",
+    "id": 428,
+    "ru": "передние",
+    "uz": "front"
+  },
+  {
+    "en": "teach",
+    "id": 429,
+    "ru": "учить",
+    "uz": "o'rgatish"
+  },
+  {
+    "en": "week",
+    "id": 430,
+    "ru": "неделя",
+    "uz": "xafta"
+  },
+  {
+    "en": "final",
+    "id": 431,
+    "ru": "окончательный",
+    "uz": "oxirgi"
+  },
+  {
+    "en": "gave",
+    "id": 432,
+    "ru": "дал",
+    "uz": "berdi"
+  },
+  {
+    "en": "green",
+    "id": 433,
+    "ru": "зеленый",
+    "uz": "yashil"
+  },
+  {
+    "en": "oh",
+    "id": 434,
+    "ru": "ой",
+    "uz": "ah"
+  },
+  {
+    "en": "quick",
+    "id": 435,
+    "ru": "быстро",
+    "uz": "tez"
+  },
+  {
+    "en": "develop",
+    "id": 436,
+    "ru": "развивать",
+    "uz": "rivojlantirish"
+  },
+  {
+    "en": "ocean",
+    "id": 437,
+    "ru": "океан",
+    "uz": "okean"
+  },
+  {
+    "en": "warm",
+    "id": 438,
+    "ru": "теплый",
+    "uz": "iliq"
+  },
+  {
+    "en": "free",
+    "id": 439,
+    "ru": "бесплатно",
+    "uz": "ozod"
+  },
+  {
+    "en": "minute",
+    "id": 440,
+    "ru": "минут",
+    "uz": "daqiqa"
+  },
+  {
+    "en": "strong",
+    "id": 441,
+    "ru": "сильный",
+    "uz": "kuchli"
+  },
+  {
+    "en": "special",
+    "id": 442,
+    "ru": "специальный",
+    "uz": "maxsus"
+  },
+  {
+    "en": "mind",
+    "id": 443,
+    "ru": "ум",
+    "uz": "fikr"
+  },
+  {
+    "en": "behind",
+    "id": 444,
+    "ru": "за",
+    "uz": "orqasida"
+  },
+  {
+    "en": "clear",
+    "id": 445,
+    "ru": "ясно",
+    "uz": "aniq"
+  },
+  {
+    "en": "tail",
+    "id": 446,
+    "ru": "хвост",
+    "uz": "dum"
+  },
+  {
+    "en": "produce",
+    "id": 447,
+    "ru": "производить",
+    "uz": "mahsulot"
+  },
+  {
+    "en": "fact",
+    "id": 448,
+    "ru": "факт",
+    "uz": "dalil"
+  },
+  {
+    "en": "space",
+    "id": 449,
+    "ru": "пространство",
+    "uz": "maydon"
+  },
+  {
+    "en": "heard",
+    "id": 450,
+    "ru": "слышал",
+    "uz": "eshitib"
+  },
+  {
+    "en": "best",
+    "id": 451,
+    "ru": "лучше",
+    "uz": "eng yaxshi"
+  },
+  {
+    "en": "hour",
+    "id": 452,
+    "ru": "час",
+    "uz": "soat"
+  },
+  {
+    "en": "better",
+    "id": 453,
+    "ru": "лучше",
+    "uz": "yaxshiroq"
+  },
+  {
+    "en": "true",
+    "id": 454,
+    "ru": "правда",
+    "uz": "haqiqiy"
+  },
+  {
+    "en": "during",
+    "id": 455,
+    "ru": "во",
+    "uz": "davomida"
+  },
+  {
+    "en": "hundred",
+    "id": 456,
+    "ru": "сто",
+    "uz": "yuz"
+  },
+  {
+    "en": "five",
+    "id": 457,
+    "ru": "пять",
+    "uz": "besh"
+  },
+  {
+    "en": "remember",
+    "id": 458,
+    "ru": "запомнить",
+    "uz": "eslayman"
+  },
+  {
+    "en": "step",
+    "id": 459,
+    "ru": "шаг",
+    "uz": "qadam"
+  },
+  {
+    "en": "early",
+    "id": 460,
+    "ru": "рано",
+    "uz": "barvaqt"
+  },
+  {
+    "en": "hold",
+    "id": 461,
+    "ru": "удерживайте",
+    "uz": "ushlab turing"
+  },
+  {
+    "en": "west",
+    "id": 462,
+    "ru": "запад",
+    "uz": "g'arb"
+  },
+  {
+    "en": "ground",
+    "id": 463,
+    "ru": "земля",
+    "uz": "yer"
+  },
+  {
+    "en": "interest",
+    "id": 464,
+    "ru": "интерес",
+    "uz": "qiziqish"
+  },
+  {
+    "en": "reach",
+    "id": 465,
+    "ru": "достичь",
+    "uz": "erishish"
+  },
+  {
+    "en": "fast",
+    "id": 466,
+    "ru": "быстро",
+    "uz": "tez"
+  },
+  {
+    "en": "verb",
+    "id": 467,
+    "ru": "глагол",
+    "uz": "fe'l"
+  },
+  {
+    "en": "sing",
+    "id": 468,
+    "ru": "петь",
+    "uz": "kuylashadi"
+  },
+  {
+    "en": "listen",
+    "id": 469,
+    "ru": "слушать",
+    "uz": "tinglash"
+  },
+  {
+    "en": "six",
+    "id": 470,
+    "ru": "шесть",
+    "uz": "olti"
+  },
+  {
+    "en": "table",
+    "id": 471,
+    "ru": "стол",
+    "uz": "stol"
+  },
+  {
+    "en": "travel",
+    "id": 472,
+    "ru": "поездки",
+    "uz": "sayohat"
+  },
+  {
+    "en": "less",
+    "id": 473,
+    "ru": "меньше",
+    "uz": "ozroq"
+  },
+  {
+    "en": "morning",
+    "id": 474,
+    "ru": "утро",
+    "uz": "ertalab"
+  },
+  {
+    "en": "ten",
+    "id": 475,
+    "ru": "десять",
+    "uz": "o'n"
+  },
+  {
+    "en": "simple",
+    "id": 476,
+    "ru": "простой",
+    "uz": "oddiy"
+  },
+  {
+    "en": "several",
+    "id": 477,
+    "ru": "несколько",
+    "uz": "bir necha"
+  },
+  {
+    "en": "vowel",
+    "id": 478,
+    "ru": "гласный",
+    "uz": "unli tovush"
+  },
+  {
+    "en": "toward",
+    "id": 479,
+    "ru": "к",
+    "uz": "tomonga"
+  },
+  {
+    "en": "war",
+    "id": 480,
+    "ru": "война",
+    "uz": "urush"
+  },
+  {
+    "en": "lay",
+    "id": 481,
+    "ru": "заложить",
+    "uz": "yotar"
+  },
+  {
+    "en": "against",
+    "id": 482,
+    "ru": "против",
+    "uz": "qarshi"
+  },
+  {
+    "en": "pattern",
+    "id": 483,
+    "ru": "шаблон",
+    "uz": "namuna"
+  },
+  {
+    "en": "slow",
+    "id": 484,
+    "ru": "медленно",
+    "uz": "sekin"
+  },
+  {
+    "en": "center",
+    "id": 485,
+    "ru": "центр",
+    "uz": "markaz"
+  },
+  {
+    "en": "love",
+    "id": 486,
+    "ru": "любовь",
+    "uz": "sevgi"
+  },
+  {
+    "en": "person",
+    "id": 487,
+    "ru": "человек",
+    "uz": "shaxs"
+  },
+  {
+    "en": "money",
+    "id": 488,
+    "ru": "деньги",
+    "uz": "pul"
+  },
+  {
+    "en": "serve",
+    "id": 489,
+    "ru": "служить",
+    "uz": "xizmat"
+  },
+  {
+    "en": "appear",
+    "id": 490,
+    "ru": "появляются",
+    "uz": "paydo"
+  },
+  {
+    "en": "road",
+    "id": 491,
+    "ru": "дорога",
+    "uz": "yo'l"
+  },
+  {
+    "en": "map",
+    "id": 492,
+    "ru": "карта",
+    "uz": "xarita"
+  },
+  {
+    "en": "rain",
+    "id": 493,
+    "ru": "дождь",
+    "uz": "yomg'ir"
+  },
+  {
+    "en": "rule",
+    "id": 494,
+    "ru": "правило",
+    "uz": "qoida"
+  },
+  {
+    "en": "govern",
+    "id": 495,
+    "ru": "управлять",
+    "uz": "boshqarmoq"
+  },
+  {
+    "en": "pull",
+    "id": 496,
+    "ru": "тянуть",
+    "uz": "torting"
+  },
+  {
+    "en": "cold",
+    "id": 497,
+    "ru": "холодный",
+    "uz": "sovuq"
+  },
+  {
+    "en": "notice",
+    "id": 498,
+    "ru": "уведомление",
+    "uz": "bildirishnoma"
+  },
+  {
+    "en": "voice",
+    "id": 499,
+    "ru": "голос",
+    "uz": "ovoz"
+  },
+  {
+    "en": "energy",
+    "id": 500,
+    "ru": "энергия",
+    "uz": "quvvat"
+  },
+  {
+    "en": "hunt",
+    "id": 501,
+    "ru": "охота",
+    "uz": "ov"
+  },
+  {
+    "en": "probable",
+    "id": 502,
+    "ru": "вероятный",
+    "uz": "ehtimolli"
+  },
+  {
+    "en": "bed",
+    "id": 503,
+    "ru": "кровать",
+    "uz": "karavot"
+  },
+  {
+    "en": "brother",
+    "id": 504,
+    "ru": "брат",
+    "uz": "aka"
+  },
+  {
+    "en": "egg",
+    "id": 505,
+    "ru": "яйцо",
+    "uz": "tuxum"
+  },
+  {
+    "en": "ride",
+    "id": 506,
+    "ru": "поездка",
+    "uz": "haydash"
+  },
+  {
+    "en": "cell",
+    "id": 507,
+    "ru": "клеток",
+    "uz": "hujayra"
+  },
+  {
+    "en": "believe",
+    "id": 508,
+    "ru": "верить",
+    "uz": "iymon"
+  },
+  {
+    "en": "perhaps",
+    "id": 509,
+    "ru": "возможно",
+    "uz": "ehtimol"
+  },
+  {
+    "en": "pick",
+    "id": 510,
+    "ru": "выбрать",
+    "uz": "termoq"
+  },
+  {
+    "en": "sudden",
+    "id": 511,
+    "ru": "внезапный",
+    "uz": "kutilmagan"
+  },
+  {
+    "en": "count",
+    "id": 512,
+    "ru": "считать",
+    "uz": "hisoblash"
+  },
+  {
+    "en": "square",
+    "id": 513,
+    "ru": "Квадратный",
+    "uz": "kvadrat"
+  },
+  {
+    "en": "reason",
+    "id": 514,
+    "ru": "причина",
+    "uz": "sabab"
+  },
+  {
+    "en": "length",
+    "id": 515,
+    "ru": "длина",
+    "uz": "uzunlik"
+  },
+  {
+    "en": "represent",
+    "id": 516,
+    "ru": "представлять",
+    "uz": "vakili"
+  },
+  {
+    "en": "art",
+    "id": 517,
+    "ru": "искусство",
+    "uz": "san'at"
+  },
+  {
+    "en": "subject",
+    "id": 518,
+    "ru": "Заголовок",
+    "uz": "mavzu"
+  },
+  {
+    "en": "region",
+    "id": 519,
+    "ru": "область",
+    "uz": "mintaqa"
+  },
+  {
+    "en": "size",
+    "id": 520,
+    "ru": "размер",
+    "uz": "hajmi"
+  },
+  {
+    "en": "vary",
+    "id": 521,
+    "ru": "меняться",
+    "uz": "farq"
+  },
+  {
+    "en": "settle",
+    "id": 522,
+    "ru": "урегулировать",
+    "uz": "hal"
+  },
+  {
+    "en": "speak",
+    "id": 523,
+    "ru": "говорить",
+    "uz": "gapirish"
+  },
+  {
+    "en": "weight",
+    "id": 524,
+    "ru": "вес",
+    "uz": "vazn"
+  },
+  {
+    "en": "general",
+    "id": 525,
+    "ru": "общий",
+    "uz": "umumiy"
+  },
+  {
+    "en": "ice",
+    "id": 526,
+    "ru": "лед",
+    "uz": "muz"
+  },
+  {
+    "en": "matter",
+    "id": 527,
+    "ru": "дело",
+    "uz": "qat'i nazar"
+  },
+  {
+    "en": "circle",
+    "id": 528,
+    "ru": "круг",
+    "uz": "to'garak"
+  },
+  {
+    "en": "pair",
+    "id": 529,
+    "ru": "пара",
+    "uz": "juft"
+  },
+  {
+    "en": "include",
+    "id": 530,
+    "ru": "включают",
+    "uz": "o'z ichiga oladi"
+  },
+  {
+    "en": "divide",
+    "id": 531,
+    "ru": "разделяй",
+    "uz": "ajratmoq"
+  },
+  {
+    "en": "syllable",
+    "id": 532,
+    "ru": "слог",
+    "uz": "bo'g'in"
+  },
+  {
+    "en": "felt",
+    "id": 533,
+    "ru": "чувствовал",
+    "uz": "his"
+  },
+  {
+    "en": "grand",
+    "id": 534,
+    "ru": "великий",
+    "uz": "grand"
+  },
+  {
+    "en": "ball",
+    "id": 535,
+    "ru": "мяч",
+    "uz": "koptok"
+  },
+  {
+    "en": "yet",
+    "id": 536,
+    "ru": "еще",
+    "uz": "hali"
+  },
+  {
+    "en": "wave",
+    "id": 537,
+    "ru": "волна",
+    "uz": "to'lqin"
+  },
+  {
+    "en": "drop",
+    "id": 538,
+    "ru": "падение",
+    "uz": "tomchi"
+  },
+  {
+    "en": "heart",
+    "id": 539,
+    "ru": "сердце",
+    "uz": "yurak"
+  },
+  {
+    "en": "am",
+    "id": 540,
+    "ru": "утра",
+    "uz": "emasman"
+  },
+  {
+    "en": "present",
+    "id": 541,
+    "ru": "присутствует",
+    "uz": "hozirgi"
+  },
+  {
+    "en": "heavy",
+    "id": 542,
+    "ru": "тяжелый",
+    "uz": "og'ir"
+  },
+  {
+    "en": "dance",
+    "id": 543,
+    "ru": "танец",
+    "uz": "raqs"
+  },
+  {
+    "en": "engine",
+    "id": 544,
+    "ru": "двигатель",
+    "uz": "motor"
+  },
+  {
+    "en": "position",
+    "id": 545,
+    "ru": "положение",
+    "uz": "vaziyat"
+  },
+  {
+    "en": "arm",
+    "id": 546,
+    "ru": "рука",
+    "uz": "qo'l"
+  },
+  {
+    "en": "wide",
+    "id": 547,
+    "ru": "широкий",
+    "uz": "keng"
+  },
+  {
+    "en": "sail",
+    "id": 548,
+    "ru": "парус",
+    "uz": "suzmoq"
+  },
+  {
+    "en": "material",
+    "id": 549,
+    "ru": "материал",
+    "uz": "ashyo"
+  },
+  {
+    "en": "fraction",
+    "id": 550,
+    "ru": "доля",
+    "uz": "kasr"
+  },
+  {
+    "en": "forest",
+    "id": 551,
+    "ru": "лес",
+    "uz": "o'rmon"
+  },
+  {
+    "en": "sit",
+    "id": 552,
+    "ru": "сидеть",
+    "uz": "o'tirib"
+  },
+  {
+    "en": "race",
+    "id": 553,
+    "ru": "гонка",
+    "uz": "irq"
+  },
+  {
+    "en": "window",
+    "id": 554,
+    "ru": "окно",
+    "uz": "deraza"
+  },
+  {
+    "en": "store",
+    "id": 555,
+    "ru": "магазин",
+    "uz": "do'kon"
+  },
+  {
+    "en": "summer",
+    "id": 556,
+    "ru": "лето",
+    "uz": "yoz"
+  },
+  {
+    "en": "train",
+    "id": 557,
+    "ru": "поезд",
+    "uz": "poezd"
+  },
+  {
+    "en": "sleep",
+    "id": 558,
+    "ru": "сон",
+    "uz": "uyqu"
+  },
+  {
+    "en": "prove",
+    "id": 559,
+    "ru": "доказывать",
+    "uz": "isbotlash"
+  },
+  {
+    "en": "lone",
+    "id": 560,
+    "ru": "одинокий",
+    "uz": "yolg'iz"
+  },
+  {
+    "en": "leg",
+    "id": 561,
+    "ru": "нога",
+    "uz": "oyoq"
+  },
+  {
+    "en": "exercise",
+    "id": 562,
+    "ru": "упражнение",
+    "uz": "mashq"
+  },
+  {
+    "en": "wall",
+    "id": 563,
+    "ru": "стена",
+    "uz": "devor"
+  },
+  {
+    "en": "catch",
+    "id": 564,
+    "ru": "улов",
+    "uz": "tutmoq"
+  },
+  {
+    "en": "mount",
+    "id": 565,
+    "ru": "крепление",
+    "uz": "mount"
+  },
+  {
+    "en": "wish",
+    "id": 566,
+    "ru": "хотите",
+    "uz": "iltimos"
+  },
+  {
+    "en": "sky",
+    "id": 567,
+    "ru": "небо",
+    "uz": "osmon"
+  },
+  {
+    "en": "board",
+    "id": 568,
+    "ru": "доска",
+    "uz": "taxta"
+  },
+  {
+    "en": "joy",
+    "id": 569,
+    "ru": "радость",
+    "uz": "xursandchilik"
+  },
+  {
+    "en": "winter",
+    "id": 570,
+    "ru": "зима",
+    "uz": "qish"
+  },
+  {
+    "en": "sat",
+    "id": 571,
+    "ru": "Сб",
+    "uz": "signallarini"
+  },
+  {
+    "en": "written",
+    "id": 572,
+    "ru": "написанный",
+    "uz": "yozma"
+  },
+  {
+    "en": "wild",
+    "id": 573,
+    "ru": "дикий",
+    "uz": "yovvoyi"
+  },
+  {
+    "en": "instrument",
+    "id": 574,
+    "ru": "инструмент",
+    "uz": "asbob"
+  },
+  {
+    "en": "kept",
+    "id": 575,
+    "ru": "хранится",
+    "uz": "saqlab"
+  },
+  {
+    "en": "glass",
+    "id": 576,
+    "ru": "стекло",
+    "uz": "shisha"
+  },
+  {
+    "en": "grass",
+    "id": 577,
+    "ru": "трава",
+    "uz": "o't"
+  },
+  {
+    "en": "cow",
+    "id": 578,
+    "ru": "корова",
+    "uz": "sigir"
+  },
+  {
+    "en": "job",
+    "id": 579,
+    "ru": "работа",
+    "uz": "ish"
+  },
+  {
+    "en": "edge",
+    "id": 580,
+    "ru": "край",
+    "uz": "chet"
+  },
+  {
+    "en": "sign",
+    "id": 581,
+    "ru": "знак",
+    "uz": "belgi"
+  },
+  {
+    "en": "visit",
+    "id": 582,
+    "ru": "визит",
+    "uz": "tashrif"
+  },
+  {
+    "en": "past",
+    "id": 583,
+    "ru": "мимо",
+    "uz": "o'tgan"
+  },
+  {
+    "en": "soft",
+    "id": 584,
+    "ru": "мягкая",
+    "uz": "yumshoq"
+  },
+  {
+    "en": "fun",
+    "id": 585,
+    "ru": "весело",
+    "uz": "qiziqarli"
+  },
+  {
+    "en": "bright",
+    "id": 586,
+    "ru": "яркий",
+    "uz": "yorug '"
+  },
+  {
+    "en": "gas",
+    "id": 587,
+    "ru": "газа",
+    "uz": "gaz"
+  },
+  {
+    "en": "weather",
+    "id": 588,
+    "ru": "погода",
+    "uz": "ob-havo"
+  },
+  {
+    "en": "month",
+    "id": 589,
+    "ru": "месяц",
+    "uz": "oy"
+  },
+  {
+    "en": "million",
+    "id": 590,
+    "ru": "миллион",
+    "uz": "million"
+  },
+  {
+    "en": "bear",
+    "id": 591,
+    "ru": "нести",
+    "uz": "qo'pol"
+  },
+  {
+    "en": "finish",
+    "id": 592,
+    "ru": "отделка",
+    "uz": "marra"
+  },
+  {
+    "en": "happy",
+    "id": 593,
+    "ru": "счастливы",
+    "uz": "baxtli"
+  },
+  {
+    "en": "hope",
+    "id": 594,
+    "ru": "надеюсь",
+    "uz": "umid"
+  },
+  {
+    "en": "flower",
+    "id": 595,
+    "ru": "цветок",
+    "uz": "gul"
+  },
+  {
+    "en": "clothe",
+    "id": 596,
+    "ru": "одевать",
+    "uz": "kiyintirmoq"
+  },
+  {
+    "en": "strange",
+    "id": 597,
+    "ru": "странный",
+    "uz": "g'alati"
+  },
+  {
+    "en": "gone",
+    "id": 598,
+    "ru": "ушел",
+    "uz": "ketganimda"
+  },
+  {
+    "en": "trade",
+    "id": 599,
+    "ru": "торговля",
+    "uz": "savdo"
+  },
+  {
+    "en": "melody",
+    "id": 600,
+    "ru": "мелодия",
+    "uz": "kuy"
+  },
+  {
+    "en": "trip",
+    "id": 601,
+    "ru": "поездка",
+    "uz": "sayohat"
+  },
+  {
+    "en": "office",
+    "id": 602,
+    "ru": "офис",
+    "uz": "idora"
+  },
+  {
+    "en": "receive",
+    "id": 603,
+    "ru": "получать",
+    "uz": "qabul"
+  },
+  {
+    "en": "row",
+    "id": 604,
+    "ru": "строка",
+    "uz": "qator"
+  },
+  {
+    "en": "mouth",
+    "id": 605,
+    "ru": "рот",
+    "uz": "og'iz"
+  },
+  {
+    "en": "exact",
+    "id": 606,
+    "ru": "точный",
+    "uz": "aniq"
+  },
+  {
+    "en": "symbol",
+    "id": 607,
+    "ru": "символ",
+    "uz": "ramz"
+  },
+  {
+    "en": "die",
+    "id": 608,
+    "ru": "умереть",
+    "uz": "o'lish"
+  },
+  {
+    "en": "least",
+    "id": 609,
+    "ru": "мере",
+    "uz": "kamida"
+  },
+  {
+    "en": "trouble",
+    "id": 610,
+    "ru": "беда",
+    "uz": "tashvish"
+  },
+  {
+    "en": "shout",
+    "id": 611,
+    "ru": "крик",
+    "uz": "baqirmoq qichqirmoq"
+  },
+  {
+    "en": "except",
+    "id": 612,
+    "ru": "кроме",
+    "uz": "tashqari"
+  },
+  {
+    "en": "wrote",
+    "id": 613,
+    "ru": "писал",
+    "uz": "yozgan"
+  },
+  {
+    "en": "seed",
+    "id": 614,
+    "ru": "семян",
+    "uz": "urug '"
+  },
+  {
+    "en": "tone",
+    "id": 615,
+    "ru": "тон",
+    "uz": "ohang"
+  },
+  {
+    "en": "join",
+    "id": 616,
+    "ru": "присоединиться",
+    "uz": "qo'shilish"
+  },
+  {
+    "en": "suggest",
+    "id": 617,
+    "ru": "предложить",
+    "uz": "taklif"
+  },
+  {
+    "en": "clean",
+    "id": 618,
+    "ru": "чистый",
+    "uz": "toza"
+  },
+  {
+    "en": "break",
+    "id": 619,
+    "ru": "перерыв",
+    "uz": "tanaffus"
+  },
+  {
+    "en": "lady",
+    "id": 620,
+    "ru": "леди",
+    "uz": "xonim"
+  },
+  {
+    "en": "yard",
+    "id": 621,
+    "ru": "двор",
+    "uz": "yard"
+  },
+  {
+    "en": "rise",
+    "id": 622,
+    "ru": "подниматься",
+    "uz": "oshirish"
+  },
+  {
+    "en": "bad",
+    "id": 623,
+    "ru": "плохо",
+    "uz": "yomon"
+  },
+  {
+    "en": "blow",
+    "id": 624,
+    "ru": "удар",
+    "uz": "zarba"
+  },
+  {
+    "en": "oil",
+    "id": 625,
+    "ru": "масло",
+    "uz": "neft"
+  },
+  {
+    "en": "blood",
+    "id": 626,
+    "ru": "кровь",
+    "uz": "qon"
+  },
+  {
+    "en": "touch",
+    "id": 627,
+    "ru": "коснуться",
+    "uz": "tegish"
+  },
+  {
+    "en": "grew",
+    "id": 628,
+    "ru": "выросла",
+    "uz": "o'sdi"
+  },
+  {
+    "en": "cent",
+    "id": 629,
+    "ru": "цент",
+    "uz": "foiz"
+  },
+  {
+    "en": "mix",
+    "id": 630,
+    "ru": "смешивать",
+    "uz": "mix"
+  },
+  {
+    "en": "team",
+    "id": 631,
+    "ru": "команда",
+    "uz": "komanda"
+  },
+  {
+    "en": "wire",
+    "id": 632,
+    "ru": "провод",
+    "uz": "sim"
+  },
+  {
+    "en": "cost",
+    "id": 633,
+    "ru": "Стоимость",
+    "uz": "qiymati"
+  },
+  {
+    "en": "lost",
+    "id": 634,
+    "ru": "потерянный",
+    "uz": "yo'qolgan"
+  },
+  {
+    "en": "brown",
+    "id": 635,
+    "ru": "коричневый",
+    "uz": "jigar rang"
+  },
+  {
+    "en": "wear",
+    "id": 636,
+    "ru": "носить",
+    "uz": "kiyish"
+  },
+  {
+    "en": "garden",
+    "id": 637,
+    "ru": "сад",
+    "uz": "bog '"
+  },
+  {
+    "en": "equal",
+    "id": 638,
+    "ru": "равный",
+    "uz": "teng"
+  },
+  {
+    "en": "sent",
+    "id": 639,
+    "ru": "отправлено",
+    "uz": "yuborilgan"
+  },
+  {
+    "en": "choose",
+    "id": 640,
+    "ru": "выбирать",
+    "uz": "ni tanlang"
+  },
+  {
+    "en": "fell",
+    "id": 641,
+    "ru": "упал",
+    "uz": "tushdi"
+  },
+  {
+    "en": "fit",
+    "id": 642,
+    "ru": "соответствовать",
+    "uz": "mos"
+  },
+  {
+    "en": "flow",
+    "id": 643,
+    "ru": "течь",
+    "uz": "oqim"
+  },
+  {
+    "en": "fair",
+    "id": 644,
+    "ru": "ярмарка",
+    "uz": "yarmarka"
+  },
+  {
+    "en": "bank",
+    "id": 645,
+    "ru": "банк",
+    "uz": "bank"
+  },
+  {
+    "en": "collect",
+    "id": 646,
+    "ru": "собирать",
+    "uz": "to'plash"
+  },
+  {
+    "en": "save",
+    "id": 647,
+    "ru": "сохранить",
+    "uz": "saqlash"
+  },
+  {
+    "en": "control",
+    "id": 648,
+    "ru": "контроль",
+    "uz": "nazorat"
+  },
+  {
+    "en": "decimal",
+    "id": 649,
+    "ru": "десятичной",
+    "uz": "o'nlik"
+  },
+  {
+    "en": "ear",
+    "id": 650,
+    "ru": "ухо",
+    "uz": "quloq"
+  },
+  {
+    "en": "else",
+    "id": 651,
+    "ru": "еще",
+    "uz": "yana boshqa"
+  },
+  {
+    "en": "quite",
+    "id": 652,
+    "ru": "вполне",
+    "uz": "mutlaqo"
+  },
+  {
+    "en": "broke",
+    "id": 653,
+    "ru": "сломал",
+    "uz": "buzib"
+  },
+  {
+    "en": "case",
+    "id": 654,
+    "ru": "дело",
+    "uz": "hodisa"
+  },
+  {
+    "en": "middle",
+    "id": 655,
+    "ru": "средний",
+    "uz": "o'rta"
+  },
+  {
+    "en": "kill",
+    "id": 656,
+    "ru": "убивать",
+    "uz": "o'ldirish"
+  },
+  {
+    "en": "son",
+    "id": 657,
+    "ru": "сын",
+    "uz": "o'g'il"
+  },
+  {
+    "en": "lake",
+    "id": 658,
+    "ru": "озеро",
+    "uz": "ko'l"
+  },
+  {
+    "en": "moment",
+    "id": 659,
+    "ru": "момент",
+    "uz": "daqiqa"
+  },
+  {
+    "en": "scale",
+    "id": 660,
+    "ru": "шкала",
+    "uz": "miqyosli"
+  },
+  {
+    "en": "loud",
+    "id": 661,
+    "ru": "громко",
+    "uz": "baland ovozda"
+  },
+  {
+    "en": "spring",
+    "id": 662,
+    "ru": "весна",
+    "uz": "bahor"
+  },
+  {
+    "en": "observe",
+    "id": 663,
+    "ru": "наблюдать",
+    "uz": "kuzatish"
+  },
+  {
+    "en": "child",
+    "id": 664,
+    "ru": "ребенок",
+    "uz": "yosh bola"
+  },
+  {
+    "en": "straight",
+    "id": 665,
+    "ru": "прямо",
+    "uz": "streyt"
+  },
+  {
+    "en": "consonant",
+    "id": 666,
+    "ru": "согласный",
+    "uz": "ohangdosh"
+  },
+  {
+    "en": "nation",
+    "id": 667,
+    "ru": "нация",
+    "uz": "millat"
+  },
+  {
+    "en": "dictionary",
+    "id": 668,
+    "ru": "словарь",
+    "uz": "lug'at"
+  },
+  {
+    "en": "milk",
+    "id": 669,
+    "ru": "молоко",
+    "uz": "sut"
+  },
+  {
+    "en": "speed",
+    "id": 670,
+    "ru": "скорость",
+    "uz": "tezlik"
+  },
+  {
+    "en": "method",
+    "id": 671,
+    "ru": "метод",
+    "uz": "usul"
+  },
+  {
+    "en": "organ",
+    "id": 672,
+    "ru": "орган",
+    "uz": "organ"
+  },
+  {
+    "en": "pay",
+    "id": 673,
+    "ru": "платить",
+    "uz": "to'lov"
+  },
+  {
+    "en": "age",
+    "id": 674,
+    "ru": "возраст",
+    "uz": "yosh"
+  },
+  {
+    "en": "section",
+    "id": 675,
+    "ru": "раздел",
+    "uz": "bo'lim"
+  },
+  {
+    "en": "dress",
+    "id": 676,
+    "ru": "платье",
+    "uz": "kiyim"
+  },
+  {
+    "en": "cloud",
+    "id": 677,
+    "ru": "облако",
+    "uz": "bulut"
+  },
+  {
+    "en": "surprise",
+    "id": 678,
+    "ru": "сюрприз",
+    "uz": "surprise"
+  },
+  {
+    "en": "quiet",
+    "id": 679,
+    "ru": "тихо",
+    "uz": "sokin"
+  },
+  {
+    "en": "stone",
+    "id": 680,
+    "ru": "камень",
+    "uz": "tosh"
+  },
+  {
+    "en": "tiny",
+    "id": 681,
+    "ru": "крошечный",
+    "uz": "kichkina"
+  },
+  {
+    "en": "climb",
+    "id": 682,
+    "ru": "подъем",
+    "uz": "yuqoriga chiqmok"
+  },
+  {
+    "en": "cool",
+    "id": 683,
+    "ru": "круто",
+    "uz": "salqin"
+  },
+  {
+    "en": "design",
+    "id": 684,
+    "ru": "дизайн",
+    "uz": "dizayn"
+  },
+  {
+    "en": "poor",
+    "id": 685,
+    "ru": "бедный",
+    "uz": "kambag'al"
+  },
+  {
+    "en": "lot",
+    "id": 686,
+    "ru": "много",
+    "uz": "maydoni"
+  },
+  {
+    "en": "experiment",
+    "id": 687,
+    "ru": "эксперимент",
+    "uz": "tajriba"
+  },
+  {
+    "en": "bottom",
+    "id": 688,
+    "ru": "снизу",
+    "uz": "pastki"
+  },
+  {
+    "en": "key",
+    "id": 689,
+    "ru": "ключ",
+    "uz": "kalit"
+  },
+  {
+    "en": "iron",
+    "id": 690,
+    "ru": "железо",
+    "uz": "temir"
+  },
+  {
+    "en": "single",
+    "id": 691,
+    "ru": "один",
+    "uz": "yakka"
+  },
+  {
+    "en": "stick",
+    "id": 692,
+    "ru": "палка",
+    "uz": "tayoq"
+  },
+  {
+    "en": "flat",
+    "id": 693,
+    "ru": "плоским",
+    "uz": "tekis"
+  },
+  {
+    "en": "twenty",
+    "id": 694,
+    "ru": "двадцать",
+    "uz": "yigirma"
+  },
+  {
+    "en": "skin",
+    "id": 695,
+    "ru": "кожа",
+    "uz": "teri"
+  },
+  {
+    "en": "smile",
+    "id": 696,
+    "ru": "улыбка",
+    "uz": "tabassum"
+  },
+  {
+    "en": "crease",
+    "id": 697,
+    "ru": "складка",
+    "uz": "qat"
+  },
+  {
+    "en": "hole",
+    "id": 698,
+    "ru": "отверстие",
+    "uz": "teshik"
+  },
+  {
+    "en": "jump",
+    "id": 699,
+    "ru": "прыжок",
+    "uz": "sakramoq"
+  },
+  {
+    "en": "baby",
+    "id": 700,
+    "ru": "ребенок",
+    "uz": "chaqaloq"
+  },
+  {
+    "en": "eight",
+    "id": 701,
+    "ru": "восемь",
+    "uz": "sakkiz"
+  },
+  {
+    "en": "village",
+    "id": 702,
+    "ru": "деревня",
+    "uz": "qishloq"
+  },
+  {
+    "en": "meet",
+    "id": 703,
+    "ru": "Знакомства",
+    "uz": "uchrashmoq"
+  },
+  {
+    "en": "root",
+    "id": 704,
+    "ru": "корень",
+    "uz": "ildiz"
+  },
+  {
+    "en": "buy",
+    "id": 705,
+    "ru": "купить",
+    "uz": "sotib"
+  },
+  {
+    "en": "raise",
+    "id": 706,
+    "ru": "поднимать",
+    "uz": "oshirish"
+  },
+  {
+    "en": "solve",
+    "id": 707,
+    "ru": "решить",
+    "uz": "hal"
+  },
+  {
+    "en": "metal",
+    "id": 708,
+    "ru": "металла",
+    "uz": "metall"
+  },
+  {
+    "en": "whether",
+    "id": 709,
+    "ru": "ли",
+    "uz": "yoki"
+  },
+  {
+    "en": "push",
+    "id": 710,
+    "ru": "толчок",
+    "uz": "durang"
+  },
+  {
+    "en": "seven",
+    "id": 711,
+    "ru": "семь",
+    "uz": "yetti"
+  },
+  {
+    "en": "paragraph",
+    "id": 712,
+    "ru": "пункт",
+    "uz": "paragraf"
+  },
+  {
+    "en": "third",
+    "id": 713,
+    "ru": "третий",
+    "uz": "uchinchi"
+  },
+  {
+    "en": "shall",
+    "id": 714,
+    "ru": "должен",
+    "uz": "keladir"
+  },
+  {
+    "en": "held",
+    "id": 715,
+    "ru": "ручные",
+    "uz": "O'tkazilayotgan"
+  },
+  {
+    "en": "hair",
+    "id": 716,
+    "ru": "волосы",
+    "uz": "soch"
+  },
+  {
+    "en": "describe",
+    "id": 717,
+    "ru": "описывать",
+    "uz": "tasvirlab"
+  },
+  {
+    "en": "cook",
+    "id": 718,
+    "ru": "повар",
+    "uz": "oshpaz"
+  },
+  {
+    "en": "floor",
+    "id": 719,
+    "ru": "этаж",
+    "uz": "pol"
+  },
+  {
+    "en": "either",
+    "id": 720,
+    "ru": "или",
+    "uz": "yoki"
+  },
+  {
+    "en": "result",
+    "id": 721,
+    "ru": "результат",
+    "uz": "natija"
+  },
+  {
+    "en": "burn",
+    "id": 722,
+    "ru": "сжечь",
+    "uz": "kuyish"
+  },
+  {
+    "en": "hill",
+    "id": 723,
+    "ru": "холм",
+    "uz": "tepalik"
+  },
+  {
+    "en": "safe",
+    "id": 724,
+    "ru": "сейф",
+    "uz": "zararsiz"
+  },
+  {
+    "en": "cat",
+    "id": 725,
+    "ru": "кошка",
+    "uz": "mushuk"
+  },
+  {
+    "en": "century",
+    "id": 726,
+    "ru": "век",
+    "uz": "asr"
+  },
+  {
+    "en": "consider",
+    "id": 727,
+    "ru": "рассматривать",
+    "uz": "tushunmoq"
+  },
+  {
+    "en": "type",
+    "id": 728,
+    "ru": "Тип",
+    "uz": "shrift"
+  },
+  {
+    "en": "law",
+    "id": 729,
+    "ru": "закон",
+    "uz": "qonun"
+  },
+  {
+    "en": "bit",
+    "id": 730,
+    "ru": "немного",
+    "uz": "bit"
+  },
+  {
+    "en": "coast",
+    "id": 731,
+    "ru": "побережье",
+    "uz": "qirg'oq"
+  },
+  {
+    "en": "copy",
+    "id": 732,
+    "ru": "копия",
+    "uz": "nusxa"
+  },
+  {
+    "en": "phrase",
+    "id": 733,
+    "ru": "фраза",
+    "uz": "ifoda"
+  },
+  {
+    "en": "silent",
+    "id": 734,
+    "ru": "тихий",
+    "uz": "shovqinsiz"
+  },
+  {
+    "en": "tall",
+    "id": 735,
+    "ru": "высокий",
+    "uz": "baland"
+  },
+  {
+    "en": "sand",
+    "id": 736,
+    "ru": "песок",
+    "uz": "qum"
+  },
+  {
+    "en": "soil",
+    "id": 737,
+    "ru": "почвы",
+    "uz": "yer"
+  },
+  {
+    "en": "roll",
+    "id": 738,
+    "ru": "рулон",
+    "uz": "roll"
+  },
+  {
+    "en": "temperature",
+    "id": 739,
+    "ru": "температура",
+    "uz": "harorat"
+  },
+  {
+    "en": "finger",
+    "id": 740,
+    "ru": "палец",
+    "uz": "barmoq"
+  },
+  {
+    "en": "industry",
+    "id": 741,
+    "ru": "промышленность",
+    "uz": "sanoat"
+  },
+  {
+    "en": "value",
+    "id": 742,
+    "ru": "значение",
+    "uz": "qiymati"
+  },
+  {
+    "en": "fight",
+    "id": 743,
+    "ru": "борьба",
+    "uz": "jang"
+  },
+  {
+    "en": "lie",
+    "id": 744,
+    "ru": "ложь",
+    "uz": "yolg'on"
+  },
+  {
+    "en": "beat",
+    "id": 745,
+    "ru": "бить",
+    "uz": "mag'lub etdi"
+  },
+  {
+    "en": "excite",
+    "id": 746,
+    "ru": "возбуждать",
+    "uz": "ta'sir qilmoq"
+  },
+  {
+    "en": "natural",
+    "id": 747,
+    "ru": "естественный",
+    "uz": "tabiiy"
+  },
+  {
+    "en": "view",
+    "id": 748,
+    "ru": "вид",
+    "uz": "ko'rinish"
+  },
+  {
+    "en": "sense",
+    "id": 749,
+    "ru": "смысл",
+    "uz": "sezgi"
+  },
+  {
+    "en": "capital",
+    "id": 750,
+    "ru": "капитал",
+    "uz": "kapital"
+  },
+  {
+    "en": "won't",
+    "id": 751,
+    "ru": "не будет",
+    "uz": "yo'q"
+  },
+  {
+    "en": "chair",
+    "id": 752,
+    "ru": "стул",
+    "uz": "stul"
+  },
+  {
+    "en": "danger",
+    "id": 753,
+    "ru": "опасность",
+    "uz": "xavfli"
+  },
+  {
+    "en": "fruit",
+    "id": 754,
+    "ru": "фрукты",
+    "uz": "meva"
+  },
+  {
+    "en": "rich",
+    "id": 755,
+    "ru": "богатые",
+    "uz": "boy"
+  },
+  {
+    "en": "thick",
+    "id": 756,
+    "ru": "толщиной",
+    "uz": "qalin"
+  },
+  {
+    "en": "soldier",
+    "id": 757,
+    "ru": "солдат",
+    "uz": "askar"
+  },
+  {
+    "en": "process",
+    "id": 758,
+    "ru": "процесс",
+    "uz": "jarayon"
+  },
+  {
+    "en": "operate",
+    "id": 759,
+    "ru": "работать",
+    "uz": "faoliyat"
+  },
+  {
+    "en": "practice",
+    "id": 760,
+    "ru": "практика",
+    "uz": "amaliyot"
+  },
+  {
+    "en": "separate",
+    "id": 761,
+    "ru": "отдельный",
+    "uz": "alohida"
+  },
+  {
+    "en": "difficult",
+    "id": 762,
+    "ru": "трудный",
+    "uz": "murakkab"
+  },
+  {
+    "en": "doctor",
+    "id": 763,
+    "ru": "врач",
+    "uz": "shifokor"
+  },
+  {
+    "en": "please",
+    "id": 764,
+    "ru": "пожалуйста",
+    "uz": "iltimos"
+  },
+  {
+    "en": "protect",
+    "id": 765,
+    "ru": "защищать",
+    "uz": "himoya"
+  },
+  {
+    "en": "noon",
+    "id": 766,
+    "ru": "полдень",
+    "uz": "peshin"
+  },
+  {
+    "en": "crop",
+    "id": 767,
+    "ru": "урожай",
+    "uz": "hosil"
+  },
+  {
+    "en": "modern",
+    "id": 768,
+    "ru": "современный",
+    "uz": "zamonaviy"
+  },
+  {
+    "en": "element",
+    "id": 769,
+    "ru": "элемент",
+    "uz": "element"
+  },
+  {
+    "en": "hit",
+    "id": 770,
+    "ru": "хит",
+    "uz": "zarba"
+  },
+  {
+    "en": "student",
+    "id": 771,
+    "ru": "студент",
+    "uz": "talaba"
+  },
+  {
+    "en": "corner",
+    "id": 772,
+    "ru": "угол",
+    "uz": "burchak"
+  },
+  {
+    "en": "party",
+    "id": 773,
+    "ru": "партия",
+    "uz": "partiya"
+  },
+  {
+    "en": "supply",
+    "id": 774,
+    "ru": "поставка",
+    "uz": "ta'minlash"
+  },
+  {
+    "en": "whose",
+    "id": 775,
+    "ru": "чьи",
+    "uz": "kimning"
+  },
+  {
+    "en": "locate",
+    "id": 776,
+    "ru": "разместить",
+    "uz": "topish"
+  },
+  {
+    "en": "ring",
+    "id": 777,
+    "ru": "кольцо",
+    "uz": "ring"
+  },
+  {
+    "en": "character",
+    "id": 778,
+    "ru": "характер",
+    "uz": "fe'l"
+  },
+  {
+    "en": "insect",
+    "id": 779,
+    "ru": "насекомое",
+    "uz": "hasharot"
+  },
+  {
+    "en": "caught",
+    "id": 780,
+    "ru": "пойманный",
+    "uz": "qo'lga"
+  },
+  {
+    "en": "period",
+    "id": 781,
+    "ru": "период",
+    "uz": "davr"
+  },
+  {
+    "en": "indicate",
+    "id": 782,
+    "ru": "указывать",
+    "uz": "ko'rsatadi"
+  },
+  {
+    "en": "radio",
+    "id": 783,
+    "ru": "радио",
+    "uz": "radio"
+  },
+  {
+    "en": "spoke",
+    "id": 784,
+    "ru": "говорил",
+    "uz": "gapirdi"
+  },
+  {
+    "en": "atom",
+    "id": 785,
+    "ru": "атом",
+    "uz": "atom"
+  },
+  {
+    "en": "human",
+    "id": 786,
+    "ru": "человек",
+    "uz": "odam"
+  },
+  {
+    "en": "history",
+    "id": 787,
+    "ru": "история",
+    "uz": "tarix"
+  },
+  {
+    "en": "effect",
+    "id": 788,
+    "ru": "эффект",
+    "uz": "ta'sir"
+  },
+  {
+    "en": "electric",
+    "id": 789,
+    "ru": "электрический",
+    "uz": "elektr"
+  },
+  {
+    "en": "expect",
+    "id": 790,
+    "ru": "ожидать",
+    "uz": "kutyapmiz"
+  },
+  {
+    "en": "bone",
+    "id": 791,
+    "ru": "кость",
+    "uz": "suyak"
+  },
+  {
+    "en": "rail",
+    "id": 792,
+    "ru": "железнодорожные",
+    "uz": "rels"
+  },
+  {
+    "en": "imagine",
+    "id": 793,
+    "ru": "вообразить",
+    "uz": "tasavvur"
+  },
+  {
+    "en": "provide",
+    "id": 794,
+    "ru": "обеспечить",
+    "uz": "ta'minlash"
+  },
+  {
+    "en": "agree",
+    "id": 795,
+    "ru": "соглашаться",
+    "uz": "qo'shilaman"
+  },
+  {
+    "en": "thus",
+    "id": 796,
+    "ru": "таким образом",
+    "uz": "shunday"
+  },
+  {
+    "en": "gentle",
+    "id": 797,
+    "ru": "нежный",
+    "uz": "yumshoq"
+  },
+  {
+    "en": "woman",
+    "id": 798,
+    "ru": "женщина",
+    "uz": "ayol"
+  },
+  {
+    "en": "captain",
+    "id": 799,
+    "ru": "капитан",
+    "uz": "kapitan"
+  },
+  {
+    "en": "guess",
+    "id": 800,
+    "ru": "догадываться",
+    "uz": "taxmin"
+  },
+  {
+    "en": "necessary",
+    "id": 801,
+    "ru": "необходимо",
+    "uz": "zarur"
+  },
+  {
+    "en": "sharp",
+    "id": 802,
+    "ru": "резкое",
+    "uz": "o'tkir"
+  },
+  {
+    "en": "wing",
+    "id": 803,
+    "ru": "крыло",
+    "uz": "qanot"
+  },
+  {
+    "en": "create",
+    "id": 804,
+    "ru": "создавать",
+    "uz": "yaratish"
+  },
+  {
+    "en": "neighbor",
+    "id": 805,
+    "ru": "сосед",
+    "uz": "qo'shni"
+  },
+  {
+    "en": "wash",
+    "id": 806,
+    "ru": "стирка",
+    "uz": "yuvish"
+  },
+  {
+    "en": "bat",
+    "id": 807,
+    "ru": "летучая мышь",
+    "uz": "ko'rshapalak"
+  },
+  {
+    "en": "rather",
+    "id": 808,
+    "ru": "а",
+    "uz": "afzal"
+  },
+  {
+    "en": "crowd",
+    "id": 809,
+    "ru": "толпа",
+    "uz": "to'da"
+  },
+  {
+    "en": "corn",
+    "id": 810,
+    "ru": "кукуруза",
+    "uz": "makkajo'xori"
+  },
+  {
+    "en": "compare",
+    "id": 811,
+    "ru": "сравнить",
+    "uz": "solishtirish"
+  },
+  {
+    "en": "poem",
+    "id": 812,
+    "ru": "стихотворение",
+    "uz": "she'r"
+  },
+  {
+    "en": "string",
+    "id": 813,
+    "ru": "строка",
+    "uz": "string"
+  },
+  {
+    "en": "bell",
+    "id": 814,
+    "ru": "колокол",
+    "uz": "qo'ng'iroq"
+  },
+  {
+    "en": "depend",
+    "id": 815,
+    "ru": "зависеть",
+    "uz": "bog'liq"
+  },
+  {
+    "en": "meat",
+    "id": 816,
+    "ru": "мясо",
+    "uz": "go'sht"
+  },
+  {
+    "en": "rub",
+    "id": 817,
+    "ru": "руб",
+    "uz": "ishqalamoq"
+  },
+  {
+    "en": "tube",
+    "id": 818,
+    "ru": "трубка",
+    "uz": "trubka"
+  },
+  {
+    "en": "famous",
+    "id": 819,
+    "ru": "известный",
+    "uz": "mashhur"
+  },
+  {
+    "en": "dollar",
+    "id": 820,
+    "ru": "доллар",
+    "uz": "dollar"
+  },
+  {
+    "en": "stream",
+    "id": 821,
+    "ru": "поток",
+    "uz": "oqim"
+  },
+  {
+    "en": "fear",
+    "id": 822,
+    "ru": "страх",
+    "uz": "qo'rqinch"
+  },
+  {
+    "en": "sight",
+    "id": 823,
+    "ru": "зрение",
+    "uz": "ko'z"
+  },
+  {
+    "en": "thin",
+    "id": 824,
+    "ru": "тонкий",
+    "uz": "ingichka"
+  },
+  {
+    "en": "triangle",
+    "id": 825,
+    "ru": "треугольник",
+    "uz": "uchburchak"
+  },
+  {
+    "en": "planet",
+    "id": 826,
+    "ru": "планета",
+    "uz": "sayyora"
+  },
+  {
+    "en": "hurry",
+    "id": 827,
+    "ru": "спешить",
+    "uz": "shoshilmoq"
+  },
+  {
+    "en": "chief",
+    "id": 828,
+    "ru": "главный",
+    "uz": "boshliq"
+  },
+  {
+    "en": "colony",
+    "id": 829,
+    "ru": "колония",
+    "uz": "mustamlaka"
+  },
+  {
+    "en": "clock",
+    "id": 830,
+    "ru": "часы",
+    "uz": "soat"
+  },
+  {
+    "en": "mine",
+    "id": 831,
+    "ru": "шахта",
+    "uz": "meniki"
+  },
+  {
+    "en": "tie",
+    "id": 832,
+    "ru": "связать",
+    "uz": "galstuk"
+  },
+  {
+    "en": "enter",
+    "id": 833,
+    "ru": "введите",
+    "uz": "kiritish"
+  },
+  {
+    "en": "major",
+    "id": 834,
+    "ru": "основным",
+    "uz": "muhim"
+  },
+  {
+    "en": "fresh",
+    "id": 835,
+    "ru": "свежий",
+    "uz": "yangi"
+  },
+  {
+    "en": "search",
+    "id": 836,
+    "ru": "поиск",
+    "uz": "qidirish"
+  },
+  {
+    "en": "send",
+    "id": 837,
+    "ru": "отправить",
+    "uz": "yuborish"
+  },
+  {
+    "en": "yellow",
+    "id": 838,
+    "ru": "желтый",
+    "uz": "sariq"
+  },
+  {
+    "en": "gun",
+    "id": 839,
+    "ru": "пистолет",
+    "uz": "kun"
+  },
+  {
+    "en": "allow",
+    "id": 840,
+    "ru": "позволять",
+    "uz": "ruxsat"
+  },
+  {
+    "en": "print",
+    "id": 841,
+    "ru": "печать",
+    "uz": "chop etish"
+  },
+  {
+    "en": "dead",
+    "id": 842,
+    "ru": "мертвый",
+    "uz": "o'lgan"
+  },
+  {
+    "en": "spot",
+    "id": 843,
+    "ru": "место",
+    "uz": "spot"
+  },
+  {
+    "en": "desert",
+    "id": 844,
+    "ru": "пустыня",
+    "uz": "sahro"
+  },
+  {
+    "en": "suit",
+    "id": 845,
+    "ru": "костюм",
+    "uz": "kostyum"
+  },
+  {
+    "en": "current",
+    "id": 846,
+    "ru": "ток",
+    "uz": "hozirgi"
+  },
+  {
+    "en": "lift",
+    "id": 847,
+    "ru": "лифт",
+    "uz": "lift"
+  },
+  {
+    "en": "rose",
+    "id": 848,
+    "ru": "выросла",
+    "uz": "atirgul"
+  },
+  {
+    "en": "arrive",
+    "id": 849,
+    "ru": "приходим",
+    "uz": "yetib"
+  },
+  {
+    "en": "master",
+    "id": 850,
+    "ru": "мастер",
+    "uz": "usta"
+  },
+  {
+    "en": "track",
+    "id": 851,
+    "ru": "трек",
+    "uz": "trek"
+  },
+  {
+    "en": "parent",
+    "id": 852,
+    "ru": "родитель",
+    "uz": "ota-"
+  },
+  {
+    "en": "shore",
+    "id": 853,
+    "ru": "берег",
+    "uz": "qirg'oq"
+  },
+  {
+    "en": "division",
+    "id": 854,
+    "ru": "деление",
+    "uz": "taqsimlash"
+  },
+  {
+    "en": "sheet",
+    "id": 855,
+    "ru": "лист",
+    "uz": "varaq"
+  },
+  {
+    "en": "substance",
+    "id": 856,
+    "ru": "вещество",
+    "uz": "modda"
+  },
+  {
+    "en": "favor",
+    "id": 857,
+    "ru": "пользу",
+    "uz": "muruvvat"
+  },
+  {
+    "en": "connect",
+    "id": 858,
+    "ru": "подключать",
+    "uz": "ulanish"
+  },
+  {
+    "en": "post",
+    "id": 859,
+    "ru": "пост",
+    "uz": "post"
+  },
+  {
+    "en": "spend",
+    "id": 860,
+    "ru": "провести",
+    "uz": "nafaqa"
+  },
+  {
+    "en": "chord",
+    "id": 861,
+    "ru": "аккорд",
+    "uz": "akkord"
+  },
+  {
+    "en": "fat",
+    "id": 862,
+    "ru": "жира",
+    "uz": "yog '"
+  },
+  {
+    "en": "glad",
+    "id": 863,
+    "ru": "довольный",
+    "uz": "xursand"
+  },
+  {
+    "en": "original",
+    "id": 864,
+    "ru": "оригинальный",
+    "uz": "original"
+  },
+  {
+    "en": "share",
+    "id": 865,
+    "ru": "доля",
+    "uz": "ulushi"
+  },
+  {
+    "en": "station",
+    "id": 866,
+    "ru": "станция",
+    "uz": "bekat"
+  },
+  {
+    "en": "dad",
+    "id": 867,
+    "ru": "папа",
+    "uz": "dada"
+  },
+  {
+    "en": "bread",
+    "id": 868,
+    "ru": "хлеб",
+    "uz": "non"
+  },
+  {
+    "en": "charge",
+    "id": 869,
+    "ru": "взимать",
+    "uz": "ayblash"
+  },
+  {
+    "en": "proper",
+    "id": 870,
+    "ru": "собственно",
+    "uz": "muvofiq"
+  },
+  {
+    "en": "bar",
+    "id": 871,
+    "ru": "бар",
+    "uz": "bar"
+  },
+  {
+    "en": "offer",
+    "id": 872,
+    "ru": "предложение",
+    "uz": "taklif qilish"
+  },
+  {
+    "en": "segment",
+    "id": 873,
+    "ru": "сегмент",
+    "uz": "segment"
+  },
+  {
+    "en": "slave",
+    "id": 874,
+    "ru": "раб",
+    "uz": "qul"
+  },
+  {
+    "en": "duck",
+    "id": 875,
+    "ru": "утка",
+    "uz": "o'rdak"
+  },
+  {
+    "en": "instant",
+    "id": 876,
+    "ru": "растворимый",
+    "uz": "tez"
+  },
+  {
+    "en": "market",
+    "id": 877,
+    "ru": "рынок",
+    "uz": "bozor"
+  },
+  {
+    "en": "degree",
+    "id": 878,
+    "ru": "степень",
+    "uz": "gradus"
+  },
+  {
+    "en": "populate",
+    "id": 879,
+    "ru": "заселять",
+    "uz": "aholining"
+  },
+  {
+    "en": "chick",
+    "id": 880,
+    "ru": "цыпленок",
+    "uz": "jo'ja"
+  },
+  {
+    "en": "dear",
+    "id": 881,
+    "ru": "дорогой",
+    "uz": "aziz"
+  },
+  {
+    "en": "enemy",
+    "id": 882,
+    "ru": "враг",
+    "uz": "dushman"
+  },
+  {
+    "en": "reply",
+    "id": 883,
+    "ru": "ответ",
+    "uz": "javob"
+  },
+  {
+    "en": "drink",
+    "id": 884,
+    "ru": "напиток",
+    "uz": "ichimlik"
+  },
+  {
+    "en": "occur",
+    "id": 885,
+    "ru": "происходить",
+    "uz": "sodir"
+  },
+  {
+    "en": "support",
+    "id": 886,
+    "ru": "поддержка",
+    "uz": "qo'llab-quvvatlash"
+  },
+  {
+    "en": "speech",
+    "id": 887,
+    "ru": "речь",
+    "uz": "nutq"
+  },
+  {
+    "en": "nature",
+    "id": 888,
+    "ru": "природа",
+    "uz": "tabiat"
+  },
+  {
+    "en": "range",
+    "id": 889,
+    "ru": "диапазон",
+    "uz": "oralig'i"
+  },
+  {
+    "en": "steam",
+    "id": 890,
+    "ru": "пара",
+    "uz": "bug '"
+  },
+  {
+    "en": "motion",
+    "id": 891,
+    "ru": "движение",
+    "uz": "harakat"
+  },
+  {
+    "en": "path",
+    "id": 892,
+    "ru": "путь",
+    "uz": "yo'l"
+  },
+  {
+    "en": "liquid",
+    "id": 893,
+    "ru": "жидкости",
+    "uz": "suyuq"
+  },
+  {
+    "en": "log",
+    "id": 894,
+    "ru": "войти",
+    "uz": "log"
+  },
+  {
+    "en": "meant",
+    "id": 895,
+    "ru": "означало",
+    "uz": "anglatadi"
+  },
+  {
+    "en": "quotient",
+    "id": 896,
+    "ru": "фактор",
+    "uz": "bo'linma"
+  },
+  {
+    "en": "teeth",
+    "id": 897,
+    "ru": "зубы",
+    "uz": "teeth"
+  },
+  {
+    "en": "shell",
+    "id": 898,
+    "ru": "оболочка",
+    "uz": "chig'anoq"
+  },
+  {
+    "en": "neck",
+    "id": 899,
+    "ru": "шея",
+    "uz": "bo'yin"
+  },
+  {
+    "en": "oxygen",
+    "id": 900,
+    "ru": "кислорода",
+    "uz": "kislorod"
+  },
+  {
+    "en": "sugar",
+    "id": 901,
+    "ru": "сахар",
+    "uz": "shakar"
+  },
+  {
+    "en": "death",
+    "id": 902,
+    "ru": "смерть",
+    "uz": "o'lim"
+  },
+  {
+    "en": "pretty",
+    "id": 903,
+    "ru": "довольно",
+    "uz": "shirin"
+  },
+  {
+    "en": "skill",
+    "id": 904,
+    "ru": "умение",
+    "uz": "mahorat"
+  },
+  {
+    "en": "women",
+    "id": 905,
+    "ru": "женщины",
+    "uz": "ayollar"
+  },
+  {
+    "en": "season",
+    "id": 906,
+    "ru": "сезон",
+    "uz": "mavsum"
+  },
+  {
+    "en": "solution",
+    "id": 907,
+    "ru": "решение",
+    "uz": "qaror"
+  },
+  {
+    "en": "magnet",
+    "id": 908,
+    "ru": "магнит",
+    "uz": "magnit"
+  },
+  {
+    "en": "silver",
+    "id": 909,
+    "ru": "серебро",
+    "uz": "kumush"
+  },
+  {
+    "en": "thank",
+    "id": 910,
+    "ru": "спасибо",
+    "uz": "rahmat"
+  },
+  {
+    "en": "branch",
+    "id": 911,
+    "ru": "филиал",
+    "uz": "filial"
+  },
+  {
+    "en": "match",
+    "id": 912,
+    "ru": "матч",
+    "uz": "match"
+  },
+  {
+    "en": "suffix",
+    "id": 913,
+    "ru": "суффикс",
+    "uz": "qo'shimchasi"
+  },
+  {
+    "en": "especially",
+    "id": 914,
+    "ru": "особенно",
+    "uz": "ayniqsa"
+  },
+  {
+    "en": "fig",
+    "id": 915,
+    "ru": "рис",
+    "uz": "anjir"
+  },
+  {
+    "en": "afraid",
+    "id": 916,
+    "ru": "боится",
+    "uz": "qo'rqqan"
+  },
+  {
+    "en": "huge",
+    "id": 917,
+    "ru": "огромный",
+    "uz": "ulkan"
+  },
+  {
+    "en": "sister",
+    "id": 918,
+    "ru": "сестра",
+    "uz": "singil"
+  },
+  {
+    "en": "steel",
+    "id": 919,
+    "ru": "сталь",
+    "uz": "po'lat"
+  },
+  {
+    "en": "discuss",
+    "id": 920,
+    "ru": "обсуждать",
+    "uz": "muhokama"
+  },
+  {
+    "en": "forward",
+    "id": 921,
+    "ru": "вперед",
+    "uz": "olg'a"
+  },
+  {
+    "en": "similar",
+    "id": 922,
+    "ru": "похожи",
+    "uz": "o'xshash"
+  },
+  {
+    "en": "guide",
+    "id": 923,
+    "ru": "направлять",
+    "uz": "hidoyat"
+  },
+  {
+    "en": "experience",
+    "id": 924,
+    "ru": "опыт",
+    "uz": "tajriba"
+  },
+  {
+    "en": "score",
+    "id": 925,
+    "ru": "счет",
+    "uz": "xol"
+  },
+  {
+    "en": "apple",
+    "id": 926,
+    "ru": "яблоко",
+    "uz": "olma"
+  },
+  {
+    "en": "bought",
+    "id": 927,
+    "ru": "купленный",
+    "uz": "sotib"
+  },
+  {
+    "en": "led",
+    "id": 928,
+    "ru": "привело",
+    "uz": "led"
+  },
+  {
+    "en": "pitch",
+    "id": 929,
+    "ru": "шаг",
+    "uz": "pitch"
+  },
+  {
+    "en": "coat",
+    "id": 930,
+    "ru": "пальто",
+    "uz": "palto"
+  },
+  {
+    "en": "mass",
+    "id": 931,
+    "ru": "масса",
+    "uz": "massa"
+  },
+  {
+    "en": "card",
+    "id": 932,
+    "ru": "карта",
+    "uz": "karta"
+  },
+  {
+    "en": "band",
+    "id": 933,
+    "ru": "полоса",
+    "uz": "frans"
+  },
+  {
+    "en": "rope",
+    "id": 934,
+    "ru": "веревка",
+    "uz": "arqon"
+  },
+  {
+    "en": "slip",
+    "id": 935,
+    "ru": "скольжение",
+    "uz": "siljitmoq"
+  },
+  {
+    "en": "win",
+    "id": 936,
+    "ru": "выиграть",
+    "uz": "Win"
+  },
+  {
+    "en": "dream",
+    "id": 937,
+    "ru": "мечтать",
+    "uz": "xayol"
+  },
+  {
+    "en": "evening",
+    "id": 938,
+    "ru": "вечер",
+    "uz": "kechqurun"
+  },
+  {
+    "en": "condition",
+    "id": 939,
+    "ru": "состояние",
+    "uz": "holat"
+  },
+  {
+    "en": "feed",
+    "id": 940,
+    "ru": "корма",
+    "uz": "yem"
+  },
+  {
+    "en": "tool",
+    "id": 941,
+    "ru": "инструмент",
+    "uz": "asbob"
+  },
+  {
+    "en": "total",
+    "id": 942,
+    "ru": "общий",
+    "uz": "jami"
+  },
+  {
+    "en": "basic",
+    "id": 943,
+    "ru": "основной",
+    "uz": "asosiy"
+  },
+  {
+    "en": "smell",
+    "id": 944,
+    "ru": "запах",
+    "uz": "hid"
+  },
+  {
+    "en": "valley",
+    "id": 945,
+    "ru": "долина",
+    "uz": "vodiy"
+  },
+  {
+    "en": "nor",
+    "id": 946,
+    "ru": "ни",
+    "uz": "na"
+  },
+  {
+    "en": "double",
+    "id": 947,
+    "ru": "двойной",
+    "uz": "ikki hissa"
+  },
+  {
+    "en": "seat",
+    "id": 948,
+    "ru": "сиденья",
+    "uz": "o'rin"
+  },
+  {
+    "en": "continue",
+    "id": 949,
+    "ru": "продолжать",
+    "uz": "davom"
+  },
+  {
+    "en": "block",
+    "id": 950,
+    "ru": "блок",
+    "uz": "blok"
+  },
+  {
+    "en": "chart",
+    "id": 951,
+    "ru": "диаграмма",
+    "uz": "sxema"
+  },
+  {
+    "en": "hat",
+    "id": 952,
+    "ru": "шляпа",
+    "uz": "shlyapa"
+  },
+  {
+    "en": "sell",
+    "id": 953,
+    "ru": "продать",
+    "uz": "sotish"
+  },
+  {
+    "en": "success",
+    "id": 954,
+    "ru": "успех",
+    "uz": "muvaffaqiyat"
+  },
+  {
+    "en": "company",
+    "id": 955,
+    "ru": "компания",
+    "uz": "kompaniya"
+  },
+  {
+    "en": "subtract",
+    "id": 956,
+    "ru": "вычитать",
+    "uz": "ayirmoq"
+  },
+  {
+    "en": "event",
+    "id": 957,
+    "ru": "мероприятие",
+    "uz": "hodisa"
+  },
+  {
+    "en": "particular",
+    "id": 958,
+    "ru": "частности",
+    "uz": "alohida"
+  },
+  {
+    "en": "deal",
+    "id": 959,
+    "ru": "сделка",
+    "uz": "kelishuv"
+  },
+  {
+    "en": "swim",
+    "id": 960,
+    "ru": "плавать",
+    "uz": "suzmoq"
+  },
+  {
+    "en": "term",
+    "id": 961,
+    "ru": "термин",
+    "uz": "muddat"
+  },
+  {
+    "en": "opposite",
+    "id": 962,
+    "ru": "напротив",
+    "uz": "qarama-qarshi"
+  },
+  {
+    "en": "wife",
+    "id": 963,
+    "ru": "жена",
+    "uz": "rafiqa"
+  },
+  {
+    "en": "shoe",
+    "id": 964,
+    "ru": "обуви",
+    "uz": "tufli"
+  },
+  {
+    "en": "shoulder",
+    "id": 965,
+    "ru": "плечо",
+    "uz": "elka"
+  },
+  {
+    "en": "spread",
+    "id": 966,
+    "ru": "распространение",
+    "uz": "tarqalishi"
+  },
+  {
+    "en": "arrange",
+    "id": 967,
+    "ru": "организовать",
+    "uz": "tashkil"
+  },
+  {
+    "en": "camp",
+    "id": 968,
+    "ru": "лагерь",
+    "uz": "lager"
+  },
+  {
+    "en": "invent",
+    "id": 969,
+    "ru": "изобретать",
+    "uz": "to'qirlar"
+  },
+  {
+    "en": "cotton",
+    "id": 970,
+    "ru": "хлопок",
+    "uz": "paxta"
+  },
+  {
+    "en": "born",
+    "id": 971,
+    "ru": "родившийся",
+    "uz": "tug'ma"
+  },
+  {
+    "en": "determine",
+    "id": 972,
+    "ru": "определять",
+    "uz": "aniqlash"
+  },
+  {
+    "en": "quart",
+    "id": 973,
+    "ru": "кварта",
+    "uz": "kvarta"
+  },
+  {
+    "en": "nine",
+    "id": 974,
+    "ru": "девять",
+    "uz": "to'qqiz"
+  },
+  {
+    "en": "truck",
+    "id": 975,
+    "ru": "грузовик",
+    "uz": "yuk mashinasi"
+  },
+  {
+    "en": "noise",
+    "id": 976,
+    "ru": "шум",
+    "uz": "shovqin"
+  },
+  {
+    "en": "level",
+    "id": 977,
+    "ru": "уровень",
+    "uz": "daraja"
+  },
+  {
+    "en": "chance",
+    "id": 978,
+    "ru": "шанс",
+    "uz": "tasodif"
+  },
+  {
+    "en": "gather",
+    "id": 979,
+    "ru": "собирать",
+    "uz": "to'plash"
+  },
+  {
+    "en": "shop",
+    "id": 980,
+    "ru": "магазин",
+    "uz": "do'kon"
+  },
+  {
+    "en": "stretch",
+    "id": 981,
+    "ru": "протяжение",
+    "uz": "cho'zmoq"
+  },
+  {
+    "en": "throw",
+    "id": 982,
+    "ru": "бросать",
+    "uz": "otish"
+  },
+  {
+    "en": "shine",
+    "id": 983,
+    "ru": "блеск",
+    "uz": "nur"
+  },
+  {
+    "en": "property",
+    "id": 984,
+    "ru": "имущество",
+    "uz": "mulk"
+  },
+  {
+    "en": "column",
+    "id": 985,
+    "ru": "колонка",
+    "uz": "ustun"
+  },
+  {
+    "en": "molecule",
+    "id": 986,
+    "ru": "молекула",
+    "uz": "molekulasi"
+  },
+  {
+    "en": "select",
+    "id": 987,
+    "ru": "выбирать",
+    "uz": "tanlang"
+  },
+  {
+    "en": "wrong",
+    "id": 988,
+    "ru": "неправильно",
+    "uz": "noto'g'ri"
+  },
+  {
+    "en": "gray",
+    "id": 989,
+    "ru": "серый",
+    "uz": "kul rang"
+  },
+  {
+    "en": "repeat",
+    "id": 990,
+    "ru": "повторение",
+    "uz": "takrorlash"
+  },
+  {
+    "en": "require",
+    "id": 991,
+    "ru": "требовать",
+    "uz": "talab"
+  },
+  {
+    "en": "broad",
+    "id": 992,
+    "ru": "широкий",
+    "uz": "keng"
+  },
+  {
+    "en": "prepare",
+    "id": 993,
+    "ru": "подготовить",
+    "uz": "tayyorlash"
+  },
+  {
+    "en": "salt",
+    "id": 994,
+    "ru": "соль",
+    "uz": "tuz"
+  },
+  {
+    "en": "nose",
+    "id": 995,
+    "ru": "нос",
+    "uz": "burun"
+  },
+  {
+    "en": "plural",
+    "id": 996,
+    "ru": "множественное",
+    "uz": "ko'plik"
+  },
+  {
+    "en": "anger",
+    "id": 997,
+    "ru": "гнев",
+    "uz": "g'azab"
+  },
+  {
+    "en": "claim",
+    "id": 998,
+    "ru": "претензии",
+    "uz": "talab"
+  },
+  {
+    "en": "continent",
+    "id": 999,
+    "ru": "континент",
+    "uz": "qit'a"
+  }
+]
