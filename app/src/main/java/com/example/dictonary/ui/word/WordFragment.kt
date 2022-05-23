@@ -37,6 +37,7 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
         return bn.root
     }
 
+    //salom
     fun saveList() {
         val jsonFileString = getJsonDataFromAsset(requireContext(), "word.json")
         if (jsonFileString != null) {
