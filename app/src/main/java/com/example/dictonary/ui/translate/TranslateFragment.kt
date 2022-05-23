@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.dictonary.R
 import com.example.dictonary.databinding.FragmentTranslateBinding
+import com.example.dictonary.model.room.entity.Word
 import kotlinx.coroutines.flow.combine
 
 class TranslateFragment : Fragment() {
@@ -19,8 +20,14 @@ class TranslateFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         _bn = FragmentTranslateBinding.inflate(inflater, container, false)
+        val trans = arguments?.getString("trans")
+        val word = arguments?.getSerializable("translate") as Word
 
-
+        if (trans.equals("0")){
+            bn.tvWord.text = word.uz
+        }else{
+            bn.tvWord.text = word.en
+        }
 
         return bn.root
     }

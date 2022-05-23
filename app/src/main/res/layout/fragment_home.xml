@@ -6,38 +6,78 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".ui.home.HomeFragment">
 
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:background="@color/purple_500"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:id="@+id/action_bar"
+        android:gravity="center_vertical"
+        android:layout_height="?actionBarSize">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="12dp"
+            android:src="@drawable/imagedictonary"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:textSize="22sp"
+            android:text="English-Uzbek Dictonary"
+            android:textColor="@color/black"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="24dp"
+            android:layout_marginEnd="12dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_baseline_share_24"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
     <androidx.appcompat.widget.AppCompatImageView
+        android:padding="10dp"
         android:layout_width="0dp"
         android:layout_height="0dp"
+        android:src="@drawable/imagedictonary"
         android:id="@+id/ivHomeIcon"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintDimensionRatio="16:15"/>
+        app:layout_constraintTop_toBottomOf="@id/action_bar"
+        app:layout_constraintDimensionRatio="16:16"/>
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnEngToUzb"
         android:layout_width="0dp"
         android:textSize="16sp"
         android:textColor="@color/black"
-        android:text="English-uzbek"
-        android:layout_height="wrap_content"
+        android:text="@string/english_uzbek"
+        android:layout_height="60dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/ivHomeIcon"
-        app:layout_constraintVertical_bias="0.25"
-        app:layout_constraintWidth_percent="0.6" />
+        app:layout_constraintVertical_bias="0.15"
+        app:layout_constraintWidth_percent="0.7" />
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnUzbToEng"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:text="@string/o_zbekcha_inglizcha"
+        android:layout_height="60dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/btnEngToUzb"
         app:layout_constraintVertical_bias="0.15"
-        app:layout_constraintWidth_percent="0.6" />
+        app:layout_constraintWidth_percent="0.7" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

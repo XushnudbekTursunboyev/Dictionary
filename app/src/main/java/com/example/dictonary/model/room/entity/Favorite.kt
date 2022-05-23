@@ -4,8 +4,8 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 import java.io.Serializable
 
-@Entity(tableName = "words")
-data class Word(
+@Entity(tableName = "favorites")
+data class Favorite(
     @PrimaryKey(autoGenerate = true)
     val id: Int = 0,
     val uz: String? = "",

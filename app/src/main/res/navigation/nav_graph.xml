@@ -15,4 +15,9 @@
         android:name="com.example.dictonary.ui.word.WordFragment"
         android:label="fragment_word"
         tools:layout="@layout/fragment_word" />
+    <fragment
+        android:id="@+id/translateFragment"
+        android:name="com.example.dictonary.ui.translate.TranslateFragment"
+        android:label="fragment_translate"
+        tools:layout="@layout/fragment_translate" />
 </navigation>

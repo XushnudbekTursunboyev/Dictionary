@@ -3,14 +3,15 @@ package com.example.dictonary.model.room.dao
 import androidx.room.*
 import com.example.dictonary.model.room.entity.Word
 
+
 @Dao
-interface WordDao {
+interface FavoriteDao {
 
-    @Insert(onConflict = OnConflictStrategy.REPLACE)
-    fun addListWord(list: List<Word>): List<Long>
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    fun addFavorite(word: Word): List<Long>
 
-    @Query("select * from words")
-    fun getUsers(): List<Word>
+    @Query("select * from favorites")
+    fun getFavorites(): List<Word>
 
     @Delete
     fun delete(word: Word)

@@ -2,18 +2,20 @@ package com.example.dictonary.ui.word
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import androidx.navigation.navArgument
 import androidx.recyclerview.widget.RecyclerView
 import com.example.dictonary.databinding.ItemWordsBinding
 import com.example.dictonary.model.room.entity.Word
+import com.example.dictonary.ui.home.HomeFragment
 
-class WordAdapter(
+class WordUzAdapter(
     var list: List<Word>,
     val onClick:(word: Word)-> Unit
-) : RecyclerView.Adapter<WordAdapter.ViewHolder>() {
+) : RecyclerView.Adapter<WordUzAdapter.ViewHolder>() {
     inner class ViewHolder(val binding: ItemWordsBinding) : RecyclerView.ViewHolder(binding.root){
         fun onBind(word: Word){
             binding.apply {
-                tvWord.text = word.en
+                tvWord.text = word.uz
             }
 
             binding.root.setOnClickListener {
