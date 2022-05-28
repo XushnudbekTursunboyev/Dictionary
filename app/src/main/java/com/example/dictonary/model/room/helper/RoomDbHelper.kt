@@ -15,7 +15,6 @@ import com.example.dictonary.model.room.entity.Word
 abstract class RoomDbHelper : RoomDatabase() {
 
     abstract fun wordService(): WordDao
-    //abstract fun favoriteService(): FavoriteDao
 
     object DatabaseBuilder {
 
@@ -33,7 +32,7 @@ abstract class RoomDbHelper : RoomDatabase() {
             Room.databaseBuilder(
                 context.applicationContext,
                 RoomDbHelper::class.java,
-                "room_list.db"
+                "room_list_new.db"
             )
                 .allowMainThreadQueries()
                 .build()

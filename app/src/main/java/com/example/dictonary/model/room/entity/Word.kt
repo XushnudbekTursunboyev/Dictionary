@@ -8,7 +8,9 @@ import java.io.Serializable
 data class Word(
     @PrimaryKey(autoGenerate = true)
     val id: Int = 0,
-    val uz: String? = "",
-    val en: String? = ""
-):Serializable
+    val uz: String = "",
+    val en: String = "",
+    var favorite: Boolean = false,
+    val type:String? = ""
+) : Serializable
 

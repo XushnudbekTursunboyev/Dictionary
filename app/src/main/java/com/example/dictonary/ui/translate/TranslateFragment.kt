@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 import com.example.dictonary.R
 import com.example.dictonary.databinding.FragmentTranslateBinding
 import com.example.dictonary.model.room.entity.Word
-import kotlinx.coroutines.flow.combine
+import com.example.dictonary.model.room.helper.RoomDbHelper
 
 class TranslateFragment : Fragment() {
 
@@ -18,15 +18,39 @@ class TranslateFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         _bn = FragmentTranslateBinding.inflate(inflater, container, false)
         val trans = arguments?.getString("trans")
         val word = arguments?.getSerializable("translate") as Word
+        var checkFavorites = word.favorite
 
-        if (trans.equals("0")){
-            bn.tvWord.text = word.uz
-        }else{
-            bn.tvWord.text = word.en
+        bn.apply {
+
+            if (checkFavorites) {
+                imageLike.setImageResource(R.drawable.ic_baseline_star_24)
+            } else {
+                imageLike.setImageResource(R.drawable.ic_baseline_star_border_24)
+            }
+
+            if (trans.equals("0")) {
+                tvWord.text = word.uz
+            } else {
+                tvWord.text = word.en
+            }
+
+            cardviewlike.setOnClickListener {
+                if (checkFavorites) {
+                    word.favorite = false
+                    imageLike.setImageResource(R.drawable.ic_baseline_star_border_24)
+                } else {
+                    word.favorite = true
+                    imageLike . setImageResource (R.drawable.ic_baseline_star_24)
+                }
+                checkFavorites = word.favorite
+                RoomDbHelper.DatabaseBuilder.getInstance(requireContext())
+                    .wordService().update(word)
+
+            }
         }
 
         return bn.root

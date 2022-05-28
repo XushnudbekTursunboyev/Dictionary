@@ -12,6 +12,9 @@ interface WordDao {
     @Query("select * from words")
     fun getUsers(): List<Word>
 
+    @Query("select * from words where words.favorite=true")
+    fun getFavorite(): List<Word>
+
     @Delete
     fun delete(word: Word)
 

@@ -77,4 +77,8 @@ dependencies {
     //gson
     implementation 'com.google.code.gson:gson:2.9.0'
 
+    //Hawk
+    implementation "com.orhanobut:hawk:2.0.1"
+
+
 }
