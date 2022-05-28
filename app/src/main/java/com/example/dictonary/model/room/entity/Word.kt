@@ -11,6 +11,6 @@ data class Word(
     val uz: String = "",
     val en: String = "",
     var favorite: Boolean = false,
-    val type:String? = ""
+    val type: String? = ""
 ) : Serializable
 

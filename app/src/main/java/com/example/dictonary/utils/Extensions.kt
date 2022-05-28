@@ -10,3 +10,7 @@ fun String.toInt(): Int {
 fun View.show(bool: Boolean) {
     this.isVisible = bool
 }
+
+typealias SingleBlock<T> = (T) -> Unit
+typealias MultiBlock<T, K> = (T, K) -> Unit
+typealias ThreeBlock<T, K, M> = (T, K, M) -> Unit

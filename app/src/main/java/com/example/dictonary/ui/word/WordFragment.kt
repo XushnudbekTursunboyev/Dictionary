@@ -30,9 +30,7 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
 
     private val navController: NavController by lazy(LazyThreadSafetyMode.NONE) { NavHostFragment.findNavController(this) }
 
-    private var adapter = WordAdapter {
-        navController.navigate(R.id.translateFragment, bundleOf("trans" to "0", "translate" to Gson().toJson(it)))
-    }
+    private lateinit var adapter: WordAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         arguments?.apply {
@@ -50,7 +48,7 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
 
     override fun setUpUI() {
         bn.apply {
-            recyclerView.adapter = adapter
+            setAdapter()
 
             loadData()
 
@@ -65,10 +63,21 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
         }
     }
 
+    private fun setAdapter() {
+        bn.apply {
+            adapter = WordAdapter(langType)
+
+            recyclerView.adapter = this@WordFragment.adapter
+            adapter.setOnCLickListener {
+                navController.navigate(R.id.translateFragment, bundleOf("trans" to "0", "translate" to Gson().toJson(it)))
+            }
+        }
+    }
+
     private fun loadData() {
         list.clear()
-        list.addAll(RoomDbHelper.DatabaseBuilder.getInstance(requireContext()).wordService().getUsers())
-
+        val roomList = RoomDbHelper.DatabaseBuilder.getInstance(requireContext()).wordService().getUsers()
+        list.addAll(if (langType == CONSTANTS.UZ) roomList.sortedBy { it.uz.lowercase() } else roomList.sortedBy { it.en.lowercase() })
         adapter.submitList(list)
     }
 
