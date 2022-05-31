@@ -1,59 +1,75 @@
 package com.example.dictonary.ui.translate
 
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
-import androidx.fragment.app.Fragment
 import com.example.dictonary.R
 import com.example.dictonary.databinding.FragmentTranslateBinding
 import com.example.dictonary.model.room.entity.Word
 import com.example.dictonary.model.room.helper.RoomDbHelper
+import com.example.dictonary.ui.global.BaseFragment
+import com.example.dictonary.utils.CONSTANTS
+import com.google.gson.Gson
 
-class TranslateFragment : Fragment() {
+class TranslateFragment : BaseFragment(R.layout.fragment_translate) {
 
     private var _bn: FragmentTranslateBinding? = null
     private val bn get() = _bn ?: throw NullPointerException("cannot inflate")
+    private lateinit var word: Word
+    private var checkFavorites = false
+    private var langType = CONSTANTS.UZ
 
-    override fun onCreateView(
-        inflater: LayoutInflater, container: ViewGroup?,
-        savedInstanceState: Bundle?
-    ): View {
-        _bn = FragmentTranslateBinding.inflate(inflater, container, false)
-        val trans = arguments?.getString("trans")
-        val word = arguments?.getSerializable("translate") as Word
-        var checkFavorites = word.favorite
+    override fun onCreate(savedInstanceState: Bundle?) {
+        arguments?.apply {
+            langType = getString(CONSTANTS.TYPE_LANG) ?: CONSTANTS.UZ
+            word = Gson().fromJson(getString(CONSTANTS.WORD_MODEL), Word::class.java)
+            checkFavorites = word.favorite
+        }
+        super.onCreate(savedInstanceState)
+    }
 
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        _bn = FragmentTranslateBinding.bind(view)
+        setUpUI()
+    }
+
+
+    override fun setUpUI() {
         bn.apply {
+            setData()
 
-            if (checkFavorites) {
-                imageLike.setImageResource(R.drawable.ic_baseline_star_24)
-            } else {
-                imageLike.setImageResource(R.drawable.ic_baseline_star_border_24)
-            }
+            checkFavorite()
 
-            if (trans.equals("0")) {
-                tvWord.text = word.uz
-            } else {
-                tvWord.text = word.en
-            }
+            saveFavorite()
+        }
+    }
 
+    private fun saveFavorite() {
+        bn.apply {
             cardviewlike.setOnClickListener {
                 if (checkFavorites) {
                     word.favorite = false
-                    imageLike.setImageResource(R.drawable.ic_baseline_star_border_24)
+                    imageLike.setImageResource(R.drawable.ic_unselect_favorite)
                 } else {
                     word.favorite = true
-                    imageLike . setImageResource (R.drawable.ic_baseline_star_24)
+                    imageLike.setImageResource(R.drawable.ic_select_favorite)
                 }
                 checkFavorites = word.favorite
                 RoomDbHelper.DatabaseBuilder.getInstance(requireContext())
                     .wordService().update(word)
-
             }
         }
+    }
 
-        return bn.root
+    private fun checkFavorite() {
+        bn.apply {
+            imageLike.setImageResource(if (checkFavorites) R.drawable.ic_select_favorite else R.drawable.ic_unselect_favorite)
+        }
+    }
+
+    private fun setData() {
+        bn.apply {
+            tvWord.text = if (langType == CONSTANTS.UZ) word.en else word.uz
+        }
     }
 
 }

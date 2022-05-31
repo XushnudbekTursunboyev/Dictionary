@@ -14,6 +14,7 @@ import com.example.dictonary.model.room.entity.Word
 import com.example.dictonary.model.room.helper.RoomDbHelper
 import com.example.dictonary.ui.global.BaseFragment
 import com.example.dictonary.utils.CONSTANTS
+import com.example.dictonary.utils.toEditable
 import com.google.gson.Gson
 
 
@@ -48,6 +49,9 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
 
     override fun setUpUI() {
         bn.apply {
+
+            setSearchText()
+
             setAdapter()
 
             loadData()
@@ -56,10 +60,18 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
 
             ivFavorite.setOnClickListener {
                 isClicked = true
-                adapter.submitList(list)
+                adapter.submitList(RoomDbHelper.DatabaseBuilder.getInstance(requireContext()).wordService().getFavorite())
             }
 
             backPressedDispatcher()
+
+        }
+    }
+
+
+    private fun setSearchText() {
+        bn.apply {
+            etSearch.hint = if (langType == CONSTANTS.UZ) CONSTANTS.UZ_SEARCH.toEditable() else CONSTANTS.EN_SEARCH.toEditable()
         }
     }
 
@@ -69,7 +81,7 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
 
             recyclerView.adapter = this@WordFragment.adapter
             adapter.setOnCLickListener {
-                navController.navigate(R.id.translateFragment, bundleOf("trans" to "0", "translate" to Gson().toJson(it)))
+                navController.navigate(R.id.translateFragment, bundleOf(CONSTANTS.TYPE_LANG to langType, CONSTANTS.WORD_MODEL to Gson().toJson(it)))
             }
         }
     }
@@ -105,7 +117,7 @@ class WordFragment : BaseFragment(R.layout.fragment_word) {
 
     private fun backPressedDispatcher() {
         activity?.onBackPressedDispatcher?.addCallback(object : OnBackPressedCallback(true) {
-            override fun handleOnBackPressed() {
+            override fun handleOnBack1Pressed() {
                 if (isClicked) {
                     isClicked = false
                     adapter.submitList(list)

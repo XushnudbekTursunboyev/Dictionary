@@ -19,7 +19,7 @@ class WordAdapter(val type: String) : RecyclerView.Adapter<WordAdapter.ViewHolde
         fun onBind(word: Word) {
             binding.apply {
                 tvWord.text = if (type == CONSTANTS.EN) word.en else word.uz
-                ivFavorite.setImageResource(if (word.favorite) R.drawable.ic_baseline_star_24 else R.drawable.ic_baseline_star_border_24)
+                ivFavorite.setImageResource(if (word.favorite) R.drawable.ic_select_favorite else R.drawable.ic_unselect_favorite)
 
                 root.setOnClickListener {
                     listener?.invoke(word)

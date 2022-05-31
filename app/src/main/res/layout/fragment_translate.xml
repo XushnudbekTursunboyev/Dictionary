@@ -35,7 +35,7 @@
             android:id="@+id/image_like"
             android:layout_width="24dp"
             android:layout_height="24dp"
-            android:src="@drawable/ic_baseline_star_border_24" />
+            android:src="@drawable/ic_unselect_favorite" />
     </com.google.android.material.card.MaterialCardView>
 
 

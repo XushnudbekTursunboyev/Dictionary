@@ -25,7 +25,6 @@ class HomeFragment : BaseFragment(R.layout.fragment_home) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         _bn = FragmentHomeBinding.bind(view)
-
         setUpUI()
     }
 

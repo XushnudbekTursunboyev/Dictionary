@@ -3,6 +3,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="english_uzbek">English-uzbek</string>
-    <string name="o_zbekcha_inglizcha">O\'zbekcha-inglizcha</string>
+    <string name="uz_to_en">O\'zbekcha-inglizcha</string>
     <string name="search">Search...</string>
+    <string name="english_uzbek_dictionary">English-Uzbek Dictionary</string>
 </resources>

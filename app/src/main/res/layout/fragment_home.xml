@@ -17,17 +17,18 @@
         android:layout_height="?actionBarSize">
 
         <androidx.appcompat.widget.AppCompatImageView
-            android:layout_width="24dp"
-            android:layout_height="24dp"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
             android:layout_marginStart="12dp"
-            android:src="@drawable/imagedictonary"/>
+            android:src="@mipmap/ic_launcher"/>
 
         <com.google.android.material.textview.MaterialTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="12dp"
-            android:textSize="22sp"
-            android:text="English-Uzbek Dictonary"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="@string/english_uzbek_dictionary"
             android:textColor="@color/black"/>
         <View
             android:layout_width="0dp"
@@ -45,12 +46,12 @@
         android:padding="10dp"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:src="@drawable/imagedictonary"
+        android:src="@drawable/image_dictionary"
         android:id="@+id/ivHomeIcon"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/action_bar"
-        app:layout_constraintDimensionRatio="16:16"/>
+        app:layout_constraintDimensionRatio="15:14"/>
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnEngToUzb"
@@ -71,7 +72,7 @@
         android:layout_width="0dp"
         android:textSize="16sp"
         android:textColor="@color/black"
-        android:text="@string/o_zbekcha_inglizcha"
+        android:text="@string/uz_to_en"
         android:layout_height="60dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
