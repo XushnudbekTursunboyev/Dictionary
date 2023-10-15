@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="icon_color">#D3277B</color>
+    <color name="statur_color">#F67FBC</color>
+
 </resources>

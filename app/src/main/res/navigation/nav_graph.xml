@@ -7,17 +7,27 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.dictonary.ui.home.HomeFragment"
+        android:name="uz.xushnudbek.dictonary.ui.home.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/wordFragment"
-        android:name="com.example.dictonary.ui.word.WordFragment"
+        android:name="uz.xushnudbek.dictonary.ui.word.WordFragment"
         android:label="fragment_word"
         tools:layout="@layout/fragment_word" />
     <fragment
         android:id="@+id/translateFragment"
-        android:name="com.example.dictonary.ui.translate.TranslateFragment"
+        android:name="uz.xushnudbek.dictonary.ui.translate.TranslateFragment"
         android:label="fragment_translate"
         tools:layout="@layout/fragment_translate" />
+    <fragment
+        android:id="@+id/favoriteScreen"
+        android:name="uz.xushnudbek.dictonary.ui.favorite.FavoriteScreen"
+        android:label="screen_favorite"
+        tools:layout="@layout/screen_favorite" />
+    <fragment
+        android:id="@+id/infoScreen"
+        tools:layout="@layout/screen_info"
+        android:name="uz.xushnudbek.dictonary.ui.info.InfoScreen"
+        android:label="InfoScreen" />
 </navigation>

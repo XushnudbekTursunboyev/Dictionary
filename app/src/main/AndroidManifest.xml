@@ -9,13 +9,13 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:name=".app.App"
+        android:name="uz.xushnudbek.dictonary.app.App"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Dictonary"
         tools:targetApi="31">
         <activity
-            android:name=".ui.MainActivity"
+            android:name="uz.xushnudbek.dictonary.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

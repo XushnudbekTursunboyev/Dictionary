@@ -3,41 +3,56 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="#D3E4FD"
     android:layout_height="match_parent"
-    tools:context=".ui.word.WordFragment">
+    tools:context="uz.xushnudbek.dictonary.ui.word.WordFragment">
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:id="@+id/action_bar"
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
+        android:background="@drawable/actionbar_bg"
         android:gravity="center_vertical"
         android:paddingHorizontal="12dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <androidx.appcompat.widget.AppCompatImageView
-            android:layout_width="48dp"
-            android:layout_height="match_parent"
-            android:src="@mipmap/ic_launcher"/>
+        <!--        <androidx.appcompat.widget.AppCompatImageView-->
+        <!--            android:layout_width="48dp"-->
+        <!--            android:layout_height="match_parent"-->
+        <!--            android:src="@mipmap/ic_launcher" />-->
 
         <androidx.appcompat.widget.AppCompatEditText
             android:id="@+id/etSearch"
             android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="8dp"
             android:layout_weight="1"
-            android:layout_height="wrap_content"
+            android:background="@drawable/search_bg"
             android:drawableEnd="@drawable/ic_search"
-            android:hint="@string/search" />
-
-
+            android:drawableTint="@color/white"
+            android:hint="@string/search"
+            android:paddingHorizontal="5dp"
+            android:textColor="@color/white"
+            android:textColorHint="#DCD0D0" />
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/ivFavorite"
             android:layout_width="24dp"
+            android:layout_height="24dp"
             android:layout_marginStart="6dp"
             android:layout_marginEnd="12dp"
+            android:src="@drawable/ic_select_favorite"
+            app:tint="@color/white" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivChange"
+            android:layout_width="24dp"
             android:layout_height="24dp"
-            android:src="@drawable/ic_select_favorite" />
+            android:layout_marginStart="6dp"
+            android:src="@drawable/ic_change"
+            app:tint="@color/white" />
 
 
     </androidx.appcompat.widget.LinearLayoutCompat>
